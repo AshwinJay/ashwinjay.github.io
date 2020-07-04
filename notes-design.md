@@ -1,5 +1,3 @@
-(**Source:** [Ashwin Jayaprakash](https://github.com/AshwinJay))
-
 # Table of Contents
 * [Product development lifecycle](#product-development-lifecycle)
 * [Design mnemonics](#design-mnemonics---fdscarss)
