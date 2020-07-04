@@ -1,4 +1,4 @@
-# Ashwin Jayaprakash
+## Ashwin Jayaprakash
 
 ## Contact
 
@@ -10,4 +10,4 @@
 ## Notes
 
 * [Designing, programming, testing, writing & other useful topics](notes-design.md)
-* [My notes on maintaining a low distraction environment and avoiding information overload](notes-productivity.md)
+* [Maintaining a low distraction environment and avoiding information overload](notes-productivity.md)
