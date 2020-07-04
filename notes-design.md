@@ -206,7 +206,7 @@ A generic design document template for documenting Micro services](https://githu
 
 ## Learning
 
-* [Barbara Oakley: "Learning How to Learn" | Talks at Google](https://www.youtube.com/watch?v=vd2dtkMINIw)
+* [Barbara Oakley: "Learning How to Learn"](https://www.youtube.com/watch?v=vd2dtkMINIw)
 * [Reading Research: A Guide for Software Engineers](https://brooker.co.za/blog/2020/05/25/reading.html))
  
 ## "Awesome lists"
@@ -219,7 +219,7 @@ A generic design document template for documenting Micro services](https://githu
 * [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) 
 * [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/) 
 * [Amazon Web Services (also in plain English)](https://adayinthelifeof.nl/2020/05/20/aws.html) 
-* [AWS services explained in one line each | Hacker News](https://news.ycombinator.com/item?id=23309269)
+* [AWS services explained in one line each](https://news.ycombinator.com/item?id=23309269)
 
 # Common sense coding preferences (mostly for Java)
 
