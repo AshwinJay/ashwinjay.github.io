@@ -1,10 +1,8 @@
-## Productivity
+# Productivity
 
 Suggestions for increasing productivity and maintaining a low distraction environment.
 
 ([Ashwin Jayaprakash](https://ashwinjay.github.io/))
-
-## 
 
 ## Computer setup
 
@@ -79,7 +77,7 @@ Etiquette and chat room classification:
  * Sepia or Solarized theme to avoid eye strain
 
 ## Interesting reading
-* (https://medium.com/@chrisjbatts/actually-slack-really-sucks-625802f1420a)
+* https://medium.com/@chrisjbatts/actually-slack-really-sucks-625802f1420a
 * https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d
 * http://pomodorotechnique.com/
 * http://blog.trello.com/eisenhower-matrix-productivity-tool-trello-board
