@@ -1,5 +1,7 @@
 # Designing, programming, testing, writing & other useful topics
 
+([Ashwin Jayaprakash](https://ashwinjay.github.io/))
+
 # Table of Contents
 * [Product development lifecycle](#product-development-lifecycle)
 * [Design mnemonics](#design-mnemonics---fdscarss)
