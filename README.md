@@ -1,4 +1,4 @@
-# Notes
+# Ashwin Jayaprakash
 
 ## Contact
 
