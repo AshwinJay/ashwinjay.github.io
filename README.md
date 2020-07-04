@@ -1,4 +1,4 @@
-# Ashwin Jayaprakash
+# [Ashwin Jayaprakash](https://ashwinjay.github.io/)
 
 # Contact
 
