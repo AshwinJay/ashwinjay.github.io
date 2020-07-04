@@ -1,4 +1,6 @@
-## Incrreasing productivity and decreasing avoid information overload with a low distraction environment
+##
+
+## Increasing productivity and decreasing avoid information overload with a low distraction environment
 
 ## Computer setup
 
