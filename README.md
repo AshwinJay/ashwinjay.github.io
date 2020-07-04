@@ -1,13 +1,11 @@
-# [Ashwin Jayaprakash](https://ashwinjay.github.io/)
-
-# Contact
+# Ashwin Jayaprakash
 
 * Blog:     [AshwinJayaprakash.com](http://ashwinjayaprakash.com/) 
 * LinkedIn: [AshwinJay](https://www.linkedin.com/in/ashwinjay/) 
 * GitHub:   [AshwinJay](https://github.com/AshwinJay)
 * Twitter:  [AshwinJay](https://twitter.com/ashwinjay)
 
-# Notes
+## Notes
 
 * [Designing, programming, testing, writing & other useful topics](notes-design.md)
 * [Suggestions for increasing productivity and maintaining a low distraction environment](notes-productivity.md)
