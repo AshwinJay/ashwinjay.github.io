@@ -10,4 +10,4 @@
 # Notes
 
 * [Designing, programming, testing, writing & other useful topics](notes-design.md)
-* [Increasing productivity and decreasing avoid information overload with a low distraction environment](notes-productivity.md)
+* [Suggestions for increasing productivity and maintaining a low distraction environment](notes-productivity.md)
