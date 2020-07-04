@@ -1,4 +1,4 @@
-# Maintaining a low distraction environment and avoiding information overload
+## Incrreasing productivity and decreasing avoid information overload with a low distraction environment
 
 ## Computer setup
 
