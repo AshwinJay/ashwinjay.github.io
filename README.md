@@ -1,0 +1,10 @@
+# Ashwin Jayaprakash
+
+* LinkedIn: [AshwinJay](https://www.linkedin.com/in/ashwinjay/) 
+* Blog: [AshwinJayaprakash.com](http://ashwinjayaprakash.com/) 
+* GitHub: [AshwinJay](https://github.com/AshwinJay)
+* Twitter: [AshwinJay](https://twitter.com/ashwinjay)
+
+## Notes
+
+* [Designing, programming, testing, writing & other useful topics](notes-design.md)
