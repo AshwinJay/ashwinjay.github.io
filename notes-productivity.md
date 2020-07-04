@@ -1,3 +1,5 @@
+# Maintaining a low distraction environment and avoiding information overload
+
 ## Computer setup
 
 ### Email with simple prioritization
@@ -71,7 +73,7 @@ Etiquette and chat room classification:
  * Sepia or Solarized theme to avoid eye strain
 
 ## Interesting reading
-* https://medium.com/@chrisjbatts/actually-slack-really-sucks-625802f1420a
+* (https://medium.com/@chrisjbatts/actually-slack-really-sucks-625802f1420a)
 * https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d
 * http://pomodorotechnique.com/
 * http://blog.trello.com/eisenhower-matrix-productivity-tool-trello-board
