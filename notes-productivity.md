@@ -1,6 +1,6 @@
-## Productivity and decreasing avoid information overload
+## Productivity
 
-Suggestions for a low distraction environment.
+Suggestions for increasing productivity and maintaining a low distraction environment.
 
 ([Ashwin Jayaprakash](https://ashwinjay.github.io/))
 
