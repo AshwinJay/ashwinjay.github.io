@@ -124,7 +124,7 @@
 
 * [How To Write Unmaintainable Code](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
 * Java coding standards (Oracle's guide has not been updated since 1999)
-  * [Google style guide](https://google.github.io/styleguide/javaguide.html) 
+  * [Google style guide](https://google.github.io/styleguide/) 
   * [Sun's/Oracle's style guide is now stale](http://www.oracle.com/technetwork/java/index-135089.html)
   * [Secure coding](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java) 
 * [Effective Java by Joshua Bloch](https://www.google.com/search?q=Effective+Java+Book+by+Joshua+Bloch&ie=utf-8&oe=utf-8)
