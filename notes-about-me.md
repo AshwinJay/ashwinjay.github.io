@@ -16,10 +16,10 @@
   - Humility and inquisitiveness
   - Honesty and sincerity
   - Determination
-  - Frugality and generosity (still working on the latter)
   - Organization and clarity of thought
-  - Emotional literacy and self-control (still working on it)
   - Objectivity and passion
+  - Frugality and generosity (still working on the latter)
+  - Emotional literacy and self-control (still working on it)
   - Empathy and compassion (still working on it)
   - Patience and kindness (still working on it)
 
