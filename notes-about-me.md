@@ -1,3 +1,5 @@
+# [Ashwin Jayaprakash](https://ashwinjay.github.io/)'s key values
+
 ## Things that bring me satisfaction and peace of mind are ...
 
   - I am partial to efficiency, organization and meticulousness
@@ -15,9 +17,9 @@
 
   - Humility and inquisitiveness
   - Honesty and sincerity
-  - Determination
-  - Organization and clarity of thought
-  - Objectivity and passion
+  - Determination and passion
+  - Organization and simplicity
+  - Objectivity and clarity of thought
   - Frugality and generosity (still working on the latter)
   - Emotional literacy and self-control (still working on it)
   - Empathy and compassion (still working on it)
