@@ -29,5 +29,5 @@
 
 ## My lifestyle
 
-  - I “value experiences over things”
+  - I value "experiences over things"
   - I take good care of what little I own
