@@ -1,6 +1,6 @@
 # About me
 
-(Ashwin Jayaprakash)(https://ashwinjay.github.io/)
+([Ashwin Jayaprakash](https://ashwinjay.github.io/))
 
 ## Things that bring me satisfaction and peace of mind are ...
 
