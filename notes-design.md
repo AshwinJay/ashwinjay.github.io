@@ -107,18 +107,17 @@
   * Schemas, APIs & DTOs (Versions, contracts)
 * **A**vailability, **R**eliability and **S**calability
   * Usage types, patterns and trends
-  * Limits like
-    * API latency and throughput
-    * Data volume
-    * CPU, network, disk limits
-    * Consistency, failue points
+    * Time of day, regions, growth, read-write ratios
+    * Traffic shape, quality of service, back pressure
+    * Caches, consistency, routing
+    * CPU, network, disk limits, latency, throughput
     * Concurrency, parallelism, serialization
   * Replication and fault tolerance
-    * Caches and consistency 
-    * Backup and restore
-    * Active-active, hot-cold etc.
+    * Backup-restore, active-standby, active-active, hot-cold archive
+    * ACID
+    * CAP
   * Resilience
-    * Graceful and partial failures
+    * Graceful failure and recovery
 * **S**erviceability
   * Clear and actionable error messages
   * Logs
