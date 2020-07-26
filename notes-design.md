@@ -106,11 +106,13 @@
   * Lifecycle (Install, update, troubleshoot, purge, uninstall)
   * Schemas, APIs & DTOs (Versions, contracts)
 * **A**vailability, **R**eliability and **S**calability
+  * Usage types, patterns and trends
   * Limits like
     * API latency and throughput
     * Data volume
-    * Process limits
-    * Concurrency
+    * CPU, network, disk limits
+    * Consistency, failue points
+    * Concurrency, parallelism, serialization
   * Replication and fault tolerance
     * Caches and consistency 
     * Backup and restore
@@ -133,7 +135,6 @@
     * Chaos tests
   * Reproducability
    * Environment
-   * Errors
    * Trends and patterns
   
 # Programming basics (Mostly for Java)
