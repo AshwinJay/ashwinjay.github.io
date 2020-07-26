@@ -71,37 +71,50 @@
 
 # Design mnemonics - "FDSCARSS"
 
-(Also see https://12factor.net/)
+(Also see [12 Factor](https://12factor.net/))
 
 * **F**unctional requirements
-  * Necessary and sufficient
-  * Usable and relevant (to stakeholders and users)
-  * Economical (frugal and elegant design)
+  * Structure 
+    * Goals and non-goals
+    * Assumptions, tradeoffs and risks
+    * Constraints and boundaries
+    * Success measures (KPIs)
+  * Fast, Inexpensive, Restrained, and Elegant values (Dan Ward)
+    * Necessary and sufficient
+    * Usable, delightful and relevant (Minimal lovable and viable product)
+    * Economical (Frugal and elegant)
 * **D**ata and everything related
-  * Core business logic, algorithms and data structures
-  * Metadata
-  * Data
-  * Configurations
-  * Tenancy
-    * Namespaces
-* **S**ecurity (shift left)
-  * Authn
-  * Authz
-  * Audit
-  * Least privilege by default and specific role assumption
+  * Core business logic (Algorithms and data structures)
+  * Catalog
+    * Metadata
+    * Data
+    * Configurations
+    * Code
+  * Governance
+    * Namespace and tenancy
+    * Visibility and privacy
+    * Residence and lifetime
+    * Quality and lineage
+* **S**ecurity (Shift left)
+  * Authentication and authorization
+  * Audit of code, roles, policies, infrastructure and logs
+  * Secure and least privilege, by default
+  * Minimize attack surface and impact
+  * Update of security algorithms and software versions
   * Rotation of keys, certificates etc.
 * **C**ompatibility
-  * Lifecycle (install, update, troubleshoot, evolve, purge, uninstall)
-  * Schemas, APIs & DTOs (versions, contracts)
-* **A**vailability, **R**eliability & **S**calability
-  * Limits
-    * API calls
+  * Lifecycle (Install, update, troubleshoot, purge, uninstall)
+  * Schemas, APIs & DTOs (Versions, contracts)
+* **A**vailability, **R**eliability and **S**calability
+  * Limits like
+    * API latency and throughput
     * Data volume
     * Process limits
     * Concurrency
   * Replication and fault tolerance
     * Caches and consistency 
-    * State backup and restore
+    * Backup and restore
+    * Active-active, hot-cold etc.
   * Resilience
     * Graceful and partial failures
 * **S**erviceability
@@ -113,12 +126,15 @@
   * Testability
     * Unit tests
     * Fuzz tests
-    * Proprety based tests
+    * Property based tests
     * Component tests
     * Contract tests
     * Integration tests   
     * Chaos tests
-  * Reproducability (environment, errors, settings)
+  * Reproducability
+   * Environment
+   * Errors
+   * Trends and patterns
   
 # Programming basics (Mostly for Java)
 
