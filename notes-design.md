@@ -77,12 +77,12 @@
   * Structure 
     * Goals and non-goals
     * Assumptions, tradeoffs and risks
-    * Constraints and boundaries
+    * Constraints (Skills, technology, cost, time, regulations)
     * Success measures (KPIs)
-  * Fast, Inexpensive, Restrained, and Elegant values (Dan Ward)
+  * Fast, Inexpensive, Restrained, and Elegant (Dan Ward)
     * Necessary and sufficient
     * Usable, delightful and relevant (Minimal lovable and viable product)
-    * Economical (Frugal and elegant)
+    * Plan to deliver incremental value
 * **D**ata and everything related
   * Core business logic (Algorithms and data structures)
   * Catalog
@@ -90,8 +90,8 @@
     * Data
     * Configurations
     * Code
+  * Namespace and tenancy
   * Governance
-    * Namespace and tenancy
     * Visibility and privacy
     * Residence and lifetime
     * Quality and lineage
@@ -101,29 +101,34 @@
   * Secure and least privilege, by default
   * Minimize attack surface and impact
   * Update of security algorithms and software versions
-  * Rotation of keys, certificates etc.
+  * Rotation of keys and certificates
 * **C**ompatibility
   * Lifecycle (Install, update, troubleshoot, purge, uninstall)
   * Schemas, APIs & DTOs (Versions, contracts)
 * **A**vailability, **R**eliability and **S**calability
   * Usage types, patterns and trends
     * Time of day, regions, growth, read-write ratios
-    * Traffic shape, quality of service, back pressure
-    * Caches, consistency, routing
-    * CPU, network, disk limits, latency, throughput
-    * Concurrency, parallelism, serialization
-  * Replication and fault tolerance
+    * Traffic shape, quality of service, back pressure, queue depth
+    * CPU, network, disk limits
+  * Concurrency and parallelism
+    * Amdahl's law, Little's law, Universal scalability law  
+    * Latency and throughput
+  * ACID and CAP  
+    * Caches, consistency
+    * Routing, sharding, replication
+  * Fault tolerance and recovery
     * Backup-restore, active-standby, active-active, hot-cold archive
-    * ACID
-    * CAP
   * Resilience
-    * Graceful failure and recovery
+    * Graceful failure handling within and across failure domains
+    * Ability to reason about system state inspite of failures
+    * Ability to self-repair or recover in meaningful, but perhaps degraded modes
 * **S**erviceability
-  * Clear and actionable error messages
-  * Logs
-  * Metrics
-  * Healthchecks
-  * Modularity
+  * Design with empathy - for user and the support/on-call person 
+    * Clear and actionable status and error messages
+    * Logs
+    * Metrics
+    * Healthchecks
+    * Alerts
   * Testability
     * Unit tests
     * Fuzz tests
@@ -134,7 +139,7 @@
     * Chaos tests
   * Reproducability
    * Environment
-   * Trends and patterns
+   * Trends and patterns (OS, network, disk)
   
 # Programming basics (Mostly for Java)
 
