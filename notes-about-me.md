@@ -6,7 +6,7 @@
 
   - I am partial to efficiency, organization and meticulousness
   - I value simplicity, aesthetics and quality over quantity
-  - I prefer passionate focus on a handful of things and delegate the rest, meaningfully
+  - I prefer passionate focus on a handful of things and delegate the rest, meaningfully (still working on the latter)
 
 ### What drives me ...
 
