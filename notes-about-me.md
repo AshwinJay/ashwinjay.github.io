@@ -29,7 +29,7 @@
 
 ### My general lifestyle ...
 
-  - I value the time I can learn, grow, reflect and relax with my family, above all else (still working on it)
+  - I value my personal time, when I can learn, grow, reflect and relax with my family
   - I value "experiences over things"
   - I take good care of what little I own and discard the rest ruthlessly
   - I try to stay fit and eat healthy
