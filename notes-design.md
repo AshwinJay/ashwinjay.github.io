@@ -193,7 +193,7 @@ A generic design document template for documenting Micro services](https://githu
 - [Building a code review culture](https://youtu.be/I0_N5MBYB5s)
 - [Google Code Review Developer Guide](https://google.github.io/eng-practices/) 
 - [Chromium Project - Respectful Code Reviews](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md) 
-- [Chromium Project - Respectful Changes](https://chromium.googlesource.com/chromium/src/+/master/docs/cl_respect.md)https://chromium.googlesource.com/chromium/src/+/master/docs/cl_respect.md)
+- [Chromium Project - Respectful Changes](https://chromium.googlesource.com/chromium/src/+/master/docs/cl_respect.md)
  
 # Debugging and problem solving
 - [Situation, task, action, result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
