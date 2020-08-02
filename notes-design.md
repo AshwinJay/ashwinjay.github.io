@@ -191,6 +191,9 @@ A generic design document template for documenting Micro services](https://githu
 - [Clean coder cheat sheet](https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf)
 - [Code review matters and manners](https://www.slideshare.net/trishagee/code-review-matters-and-manners) with [video](https://vimeo.com/182087729)
 - [Building a code review culture](https://youtu.be/I0_N5MBYB5s)
+- [Google Code Review Developer Guide](https://google.github.io/eng-practices/) 
+- [Chromium Project - Respectful Code Reviews](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md) 
+- [Chromium Project - Respectful Changes](https://chromium.googlesource.com/chromium/src/+/master/docs/cl_respect.md)https://chromium.googlesource.com/chromium/src/+/master/docs/cl_respect.md)
  
 # Debugging and problem solving
 - [Situation, task, action, result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
