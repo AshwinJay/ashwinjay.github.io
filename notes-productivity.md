@@ -2,7 +2,9 @@
 
 Suggestions for increasing productivity and maintaining a low distraction environment.
 
-([Ashwin Jayaprakash](https://ashwinjay.github.io/))
+> [Ashwin Jayaprakash](https://ashwinjay.github.io/)
+
+> [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Computer setup
 
