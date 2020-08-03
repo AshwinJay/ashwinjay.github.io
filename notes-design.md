@@ -1,6 +1,8 @@
 # Designing, programming, testing, writing & other useful topics
 
-([Ashwin Jayaprakash](https://ashwinjay.github.io/))
+> [Ashwin Jayaprakash](https://ashwinjay.github.io/)
+
+> [https://creativecommons.org/licenses/by-sa/4.0/](CC-BY-SA-4.0)
 
 # Table of Contents
 * [Product development lifecycle](#product-development-lifecycle)
