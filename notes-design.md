@@ -131,13 +131,15 @@
     * Metrics
     * Healthchecks
     * Alerts
+    * Documentation and runbooks
   * Testability
     * Unit tests
     * Fuzz tests
     * Property based tests
     * Component tests
     * Contract tests
-    * Integration tests   
+    * Integration tests
+    * Performance tests
     * Chaos tests
   * Reproducability
    * Environment
