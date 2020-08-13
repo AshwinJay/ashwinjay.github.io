@@ -87,11 +87,10 @@
     * Plan to deliver incremental value
 * **D**ata and everything related
   * Core business logic (Algorithms and data structures)
-  * Catalog
-    * Metadata
-    * Data
-    * Configurations
-    * Code
+  * Metadata
+  * Data
+  * Configurations
+  * Code
   * Namespace and tenancy
   * Governance
     * Visibility and privacy
