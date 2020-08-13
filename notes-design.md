@@ -174,6 +174,7 @@
 * [Gang of Four Patterns in a Functional Light](https://www.youtube.com/watch?v=lZG74WbnhoE)
 * [Programming Principles - slightly different from the ones above](http://webpro.github.io/programming-principles/)
 * [Package by Feature](https://phauer.com/2020/package-by-feature/)
+* [Microservice architecture](https://microservices.io)
 
 # Documentation and commit messages
 
