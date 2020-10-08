@@ -212,6 +212,7 @@ A generic design document template for documenting Micro services](https://githu
 * [Google API design](https://cloud.google.com/apis/design/) 
 * [Kubernetes REST API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md)
 * [Evolving Java-based APIs / Achieving API Binary Compatibility](https://wiki.eclipse.org/Evolving_Java-based_APIs_2)
+* [REST API tutorial](https://restfulapi.net/)
 
 # Computer fundamentals
 
