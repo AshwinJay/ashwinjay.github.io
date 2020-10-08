@@ -1,7 +1,7 @@
 # Ashwin Jayaprakash
 
 * [About me](notes-about-me.md)
-* Blog:     [AshwinJayaprakash.com](http://www.ashwinjayaprakash.com/) 
+* Blog:     [AshwinJayaprakash.com](https://www.ashwinjayaprakash.com/) 
 * LinkedIn: [AshwinJay](https://www.linkedin.com/in/ashwinjay/) 
 * GitHub:   [AshwinJay](https://github.com/AshwinJay)
 * Twitter:  [AshwinJay](https://twitter.com/ashwinjay)
