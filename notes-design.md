@@ -213,6 +213,10 @@ A generic design document template for documenting Micro services](https://githu
 * [Kubernetes REST API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md)
 * [Evolving Java-based APIs / Achieving API Binary Compatibility](https://wiki.eclipse.org/Evolving_Java-based_APIs_2)
 * [REST API tutorial](https://restfulapi.net/)
+* [Avoid Data Corruption in Your REST API with ETags](https://www.kennethlange.com/avoid-data-corruption-in-your-rest-api-with-etags/)
+* [Boost Your REST API with HTTP Caching](https://www.kennethlange.com/boost-your-rest-api-with-http-caching/) 
+* [REST API Checklist - Kenneth Lange](https://www.kennethlange.com/rest-api-checklist/)
+* [7 Tips for Designing a Better REST API](https://www.kennethlange.com/7-tips-for-designing-a-better-rest-api/)
 
 # Computer fundamentals
 
