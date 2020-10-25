@@ -140,6 +140,7 @@
     * Integration tests
     * Performance tests
     * Chaos tests
+    * Disaster recovery, fault domain isolation, failure mode and effects analysis
   * Reproducability
    * Environment
    * Trends and patterns (OS, network, disk)
