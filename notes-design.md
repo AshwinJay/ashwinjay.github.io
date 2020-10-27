@@ -139,8 +139,11 @@
     * Contract tests
     * Integration tests
     * Performance tests
+  * Disaster recovery
     * Chaos tests
-    * Disaster recovery, fault domain isolation, failure mode and effects analysis
+    * Fault domain isolation
+    * Failure Mode and Effects Analysis
+    * Recovery Point Objective and Recovery Time Objective
   * Reproducability
    * Environment
    * Trends and patterns (OS, network, disk)
