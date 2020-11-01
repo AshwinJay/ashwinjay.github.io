@@ -193,6 +193,7 @@ A generic design document template for documenting Micro services](https://githu
 - [The Modular Documentation Project Source Repository](https://github.com/redhat-documentation/modular-docs)
 - [The Art of Code Comments - Sarah Drasner](https://youtu.be/yhF7OmuIILc)
 - [If Hemingway Wrote JavaDocs](https://www.youtube.com/watch?v=DEW_SRk6mCU)
+- [Keep a Changelog](https://keepachangelog.com)
 
 # Testing and code review
 
