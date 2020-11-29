@@ -179,21 +179,25 @@
 * [Package by Feature](https://phauer.com/2020/package-by-feature/)
 * [Microservice architecture](https://microservices.io)
 
-# Documentation and commit messages
+# Documentation and information management
 
- - [US Government plain language guidelines](https://plainlanguage.gov/)
- - [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
- - [Effective software design documents](https://wecode.wepay.com/posts/effective-software-design-documents) & [
+- [US Government plain language guidelines](https://plainlanguage.gov/)
+- [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+- [Effective software design documents](https://wecode.wepay.com/posts/effective-software-design-documents) & [
 A generic design document template for documenting Micro services](https://github.com/wepay/design_doc_template)
- - [Cassandra contribution guide](http://cassandra.apache.org/doc/latest/development/index.html) has a nice page on code review among other things
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- [eclipse collections contributor guide](https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md#commit-messages)
-- [Strimzi contributor guide](https://strimzi.io/contributing/guide/)
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 - [The Modular Documentation Project Source Repository](https://github.com/redhat-documentation/modular-docs)
 - [The Art of Code Comments - Sarah Drasner](https://youtu.be/yhF7OmuIILc)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [If Hemingway Wrote JavaDocs](https://www.youtube.com/watch?v=DEW_SRk6mCU)
 - [Keep a Changelog](https://keepachangelog.com)
+
+# Project maintenance and contributions
+
+- [Cassandra contribution guide](http://cassandra.apache.org/doc/latest/development/index.html) has a nice page on code review among other things
+- [eclipse collections contributor guide](https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md#commit-messages)
+- [Strimzi contributor guide](https://strimzi.io/contributing/guide/)
+- [Contributing to Seldon Core](https://docs.seldon.io/projects/seldon-core/en/latest/developer/contributing.html)
 
 # Testing and code review
 
@@ -247,7 +251,8 @@ A generic design document template for documenting Micro services](https://githu
 ## Learning
 
 * [Barbara Oakley: "Learning How to Learn"](https://www.youtube.com/watch?v=vd2dtkMINIw)
-* [Reading Research: A Guide for Software Engineers](https://brooker.co.za/blog/2020/05/25/reading.html))
+* [Reading Research: A Guide for Software Engineers](https://brooker.co.za/blog/2020/05/25/reading.html)
+* [Engineering You: Martin Thompson](https://youtu.be/S4LzzuMTqjs)
  
 ## "Awesome lists"
 
