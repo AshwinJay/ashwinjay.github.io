@@ -262,17 +262,19 @@ A generic design document template for documenting Micro services](https://githu
 
 ## Cloud
 * [Jerry Hargrove - Cloud Diagrams & Notes](https://www.awsgeek.com/)
-* [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) 
+* [open-guides/og-aws: Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) 
 * [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/) 
 * [Amazon Web Services (also in plain English)](https://adayinthelifeof.nl/2020/05/20/aws.html) 
 * [AWS services explained in one line each](https://news.ycombinator.com/item?id=23309269)
 
 # Common sense coding preferences (mostly for Java)
 
-## JVM
+## Java/JVM
  - [JVM bytecode](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
  - [JVM internals](http://blog.jamesdbloom.com/JVMInternals.html)
  - [Aleksey Shipilёv's posts describing some elementary piece of knowledge about JVM](https://shipilev.net/jvm/anatomy-quarks/)
+ - [Trustin Lee: Writing a Java library with better experience](https://youtu.be/0eQbsVLxmMk)
+ - [Date-Time Design Principles](https://docs.oracle.com/javase/tutorial/datetime/overview/design.html)
 
 ## Code generation
 
@@ -367,7 +369,7 @@ public class PieRecipe {
 
 ### Exceptions
 
-[No](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html).
+[Avoid](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html).
 
 ### Formatting
 
@@ -430,7 +432,7 @@ List<String> items = few
 
  - Avoid plurals in package names
  - Prefer plural form of class name if it is a `Factory` or something similar. Ex: `JobExecutors` or `FooBuilders` or `Constants`
- - Some pointers from Java 8 Time API: [this](https://docs.oracle.com/javase/tutorial/datetime/overview/naming.html) & [that](https://docs.oracle.com/javase/tutorial/datetime/overview/design.html) 
+ - Some pointers from [Java 8 Time API](https://docs.oracle.com/javase/tutorial/datetime/overview/naming.html)
 
 ### Constants
 
