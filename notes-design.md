@@ -19,7 +19,7 @@
 * [Distributed systems](#distributed-systems)
 * [Misc tech](#misc-tech)
 * [Common sense coding preferences (mostly for Java)](#common-sense-coding-preferences-mostly-for-java)
-  * [JVM](#jvm)
+  * [Java/JVM](#javajvm)
   * [Code generation](#code-generation)
      * [Lombok](#lombok)
      * [Misc Java](#misc-java)
