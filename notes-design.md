@@ -227,6 +227,7 @@ A generic design document template for documenting Micro services](https://githu
 * [Boost Your REST API with HTTP Caching](https://www.kennethlange.com/boost-your-rest-api-with-http-caching/) 
 * [REST API Checklist - Kenneth Lange](https://www.kennethlange.com/rest-api-checklist/)
 * [7 Tips for Designing a Better REST API](https://www.kennethlange.com/7-tips-for-designing-a-better-rest-api/)
+* [A guide to help you write better command-line programs](https://github.com/cli-guidelines/cli-guidelines)
 
 # Computer fundamentals
 
