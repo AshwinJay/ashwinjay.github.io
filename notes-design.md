@@ -190,6 +190,7 @@ A generic design document template for documenting Micro services](https://githu
 - [The Modular Documentation Project Source Repository](https://github.com/redhat-documentation/modular-docs)
 - [The Art of Code Comments - Sarah Drasner](https://youtu.be/yhF7OmuIILc)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Conventional Commits - specification for adding human and machine readable meaning to commit messages](https://www.conventionalcommits.org/en/v1.0.0/)
 - [If Hemingway Wrote JavaDocs](https://www.youtube.com/watch?v=DEW_SRk6mCU)
 - [Keep a Changelog](https://keepachangelog.com)
 
@@ -276,6 +277,7 @@ A generic design document template for documenting Micro services](https://githu
  - [Aleksey Shipilёv's posts describing some elementary piece of knowledge about JVM](https://shipilev.net/jvm/anatomy-quarks/)
  - [Trustin Lee: Writing a Java library with better experience](https://youtu.be/0eQbsVLxmMk)
  - [Date-Time Design Principles](https://docs.oracle.com/javase/tutorial/datetime/overview/design.html)
+ - [Time To Really Learn Generics: A Java 8 Perspective](https://nofluffjuststuff.com/magazine/2016/09/time_to_really_learn_generics_a_java_8_perspective)
 
 ## Code generation
 
