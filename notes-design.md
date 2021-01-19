@@ -210,7 +210,8 @@ A generic design document template for documenting Micro services](https://githu
 - [Google Code Review Developer Guide](https://google.github.io/eng-practices/) 
 - [Chromium Project - Respectful Code Reviews](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md) 
 - [Chromium Project - Respectful Changes](https://chromium.googlesource.com/chromium/src/+/master/docs/cl_respect.md)
- 
+- [Don't be mocked by your Mocks: Listening to your Tests](https://youtu.be/pKBjufM024U)
+
 # Debugging and problem solving
 - [Situation, task, action, result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 - [The Five W's (and H) approach](https://javaforu.blogspot.com/2011/06/five-ws-and-h-approach.html)
