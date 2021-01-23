@@ -46,20 +46,20 @@ Etiquette and chat room classification:
 * Automatically hiding dock/task bar to prevent visual distractions such as "unread counters" from IM or Email
 * No pop up notifications from any application/Calendar/IM
 
-
 ### Misc tools
 * [TaskPaper](https://www.taskpaper.com/) note taker and outliner
 * [Typora](https://typora.io/) to write specs or documents or long notes using distraction free Markdown before moving them to internal wiki or email
-* Google Chrome plugins
-  * [Jira subtask sortable - Change the order of JIRA sub-tasks via drag and drop](https://github.com/gaerae/jira-subtask-sortable)  
-  * [JSON Editor - Chrome Web Store](https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj)  
-  * [callumlocke/json-formatter: Makes JSON/JSONP easy to read](https://github.com/callumlocke/json-formatter)  
-  * [TabCopy - Chrome Web Store](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)  
-  * [Tabman Tabs Manager - Chrome Web Store](https://chrome.google.com/webstore/detail/tabman-tabs-manager/hgmnkflcjcohihpdcniifjbafcdelhlm)  
-  * [Grammarly](http://grammarly.com/)
-  * [New Tabs At End](https://chrome.google.com/webstore/detail/new-tabs-at-end/bgogjfbkjgjhonhikkkflpkgpcpfljoa)
-* Google Chrome custom search
-  * [JIRA quick search](https://stackoverflow.com/questions/17239740/add-jira-quick-search-to-chrome-omnibox)
+* Google Chrome
+  * Organization
+    * [Organize your tabs with tab groups in Google Chrome](https://blog.google/products/chrome/manage-tabs-with-google-chrome/)
+    * [Tabman Tabs Manager - Chrome Web Store](https://chrome.google.com/webstore/detail/tabman-tabs-manager/hgmnkflcjcohihpdcniifjbafcdelhlm)  
+    * [JIRA quick search](https://stackoverflow.com/questions/17239740/add-jira-quick-search-to-chrome-omnibox)
+  * Plugins
+    * [Jira subtask sortable - Change the order of JIRA sub-tasks via drag and drop](https://github.com/gaerae/jira-subtask-sortable)  
+    * [JSON Editor - Chrome Web Store](https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj)  
+    * [callumlocke/json-formatter: Makes JSON/JSONP easy to read](https://github.com/callumlocke/json-formatter)  
+    * [TabCopy - Chrome Web Store](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)  
+    * [Grammarly](http://grammarly.com/)
 
 ## Other devices (Phone / tablet)
 
