@@ -275,6 +275,7 @@ A generic design document template for documenting Micro services](https://githu
 ## Java/JVM
  - [JVM bytecode](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
  - [JVM internals](http://blog.jamesdbloom.com/JVMInternals.html)
+ - [No Free Lunch? Memory Allocation in the JVM](https://youtu.be/NY1S0M4i-xM)
  - [Aleksey Shipilёv's posts describing some elementary piece of knowledge about JVM](https://shipilev.net/jvm/anatomy-quarks/)
  - [Trustin Lee: Writing a Java library with better experience](https://youtu.be/0eQbsVLxmMk)
  - [Date-Time Design Principles](https://docs.oracle.com/javase/tutorial/datetime/overview/design.html)
