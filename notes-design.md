@@ -1,13 +1,14 @@
 # Designing, programming, testing, writing & other useful topics
 
 > [Ashwin Jayaprakash](https://ashwinjay.github.io/)
-
 > [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+> (An opinionated collection)
 
 # Table of Contents
+
 * [Product development lifecycle](#product-development-lifecycle)
-* [Design mnemonics](#design-mnemonics---fdscarss)
-* [Programming basics (mostly for Java)](#programming-basics-mostly-for-java)
+* [Design mnemonics - "FDSCARSS"](#design-mnemonics---fdscarss)
+* [Programming basics (Mostly for Java)](#programming-basics-mostly-for-java)
 * [Design basics](#design-basics)
 * [Documentation and information management](#documentation-and-information-management)
 * [Project maintenance and contributions](#project-maintenance-and-contributions)
@@ -18,8 +19,12 @@
 * [Concurrency](#concurrency)
 * [Distributed systems](#distributed-systems)
 * [Misc tech](#misc-tech)
-* [Common sense coding preferences (mostly for Java)](#common-sense-coding-preferences-mostly-for-java)
-  * [Java/JVM](#javajvm)
+  * [Learning](#learning)
+  * ["Awesome lists"](#awesome-lists)
+  * [Cloud](#cloud)
+* [Java](#java)
+  * [Java/JVM deep dive](#javajvm-deep-dive)
+  * [Guides, best practices and patterns](#guides-best-practices-and-patterns)
   * [Code generation](#code-generation)
      * [Lombok](#lombok)
      * [Misc Java](#misc-java)
@@ -28,12 +33,11 @@
      * [Lifecycle](#lifecycle)
   * [Style](#style)
      * [Visibility](#visibility)
+     * [Naming](#naming)
      * [Member variables](#member-variables)
-     * [Exceptions](#exceptions)
      * [Formatting](#formatting)
      * [Ordering of methods](#ordering-of-methods)
      * [Thread safety](#thread-safety)
-     * [Naming](#naming)
      * [Constants](#constants)
      * [(Java)Docs, comments and logs](#javadocs-comments-and-logs)
   * [Non-Java files and resources](#non-java-files-and-resources)
@@ -41,7 +45,7 @@
 
 (TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc))
 
-# Product development lifecycle
+# Product development lifecycle 
 
 (Keep in mind that the stages are iterative with feedback loops)
 
@@ -270,16 +274,22 @@ A generic design document template for documenting Micro services](https://githu
 * [Amazon Web Services (also in plain English)](https://adayinthelifeof.nl/2020/05/20/aws.html) 
 * [AWS services explained in one line each](https://news.ycombinator.com/item?id=23309269)
 
-# Common sense coding preferences (mostly for Java)
+# Java
 
-## Java/JVM
+## Java/JVM deep dive
  - [JVM bytecode](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
  - [JVM internals](http://blog.jamesdbloom.com/JVMInternals.html)
  - [No Free Lunch? Memory Allocation in the JVM](https://youtu.be/NY1S0M4i-xM)
+ - [Behind the scenes: How do lambda expressions really work in Java?](https://blogs.oracle.com/javamagazine/behind-the-scenes-how-do-lambda-expressions-really-work-in-java)
  - [Aleksey Shipilёv's posts describing some elementary piece of knowledge about JVM](https://shipilev.net/jvm/anatomy-quarks/)
+ - [Time To Really Learn Generics: A Java 8 Perspective](https://nofluffjuststuff.com/magazine/2016/09/time_to_really_learn_generics_a_java_8_perspective)
+
+## Guides, best practices and patterns
+
  - [Trustin Lee: Writing a Java library with better experience](https://youtu.be/0eQbsVLxmMk)
  - [Date-Time Design Principles](https://docs.oracle.com/javase/tutorial/datetime/overview/design.html)
- - [Time To Really Learn Generics: A Java 8 Perspective](https://nofluffjuststuff.com/magazine/2016/09/time_to_really_learn_generics_a_java_8_perspective)
+ - [12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
+- [Avoid](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
 
 ## Code generation
 
@@ -344,6 +354,12 @@ public class FruitModule extends AbstractModule {
  - `@VisibleForTesting` if `package-local` or `protected` method needs to be exposed for testing. Generally should be avoided as it may leak encapsulation
  - `@VisibleForTesting` if `package-local` or `protected` constructors on the other hand are much better as they declare all their dependencies upfront
  - `protected` constructor and perhaps fields of abstract classes that will be sub-classed from other packages
+ 
+### Naming
+
+ - Avoid plurals in package names
+ - Prefer plural form of class name if it is a `Factory` or something similar. Ex: `JobExecutors` or `FooBuilders` or `Constants`
+ - Some pointers from [Java 8 Time API](https://docs.oracle.com/javase/tutorial/datetime/overview/naming.html)
 
 ### Member variables
 
@@ -371,11 +387,6 @@ public class PieRecipe {
     private List<Flavor> optionalFlavors;
 }
 ```
-
-### Exceptions
-
-[Avoid](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html).
-
 ### Formatting
 
 Prefer readability over compactness while formatting code. Sometimes the IDE's automatic formatting may have to be overridden manually.
@@ -433,12 +444,6 @@ List<String> items = few
  - By default all classes and methods are assumed not safe
  - Thread safe classes are marked by an explicit `@ThreadSafe` annotation
  
-### Naming
-
- - Avoid plurals in package names
- - Prefer plural form of class name if it is a `Factory` or something similar. Ex: `JobExecutors` or `FooBuilders` or `Constants`
- - Some pointers from [Java 8 Time API](https://docs.oracle.com/javase/tutorial/datetime/overview/naming.html)
-
 ### Constants
 
 ```java
