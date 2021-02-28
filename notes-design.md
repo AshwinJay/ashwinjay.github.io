@@ -240,6 +240,7 @@ A generic design document template for documenting Micro services](https://githu
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [What's in a Linux executable?](https://fasterthanli.me/blog/2020/whats-in-a-linux-executable/)
+* [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
 * [Wizard zines](https://wizardzines.com/)
 
 # Concurrency
