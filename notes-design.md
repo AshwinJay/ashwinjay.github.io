@@ -294,6 +294,15 @@ A generic design document template for documenting Micro services](https://githu
  - [12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
 - [Avoid](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
 
+### Katas
+  - [c-guntur/paneer-tikka-masala: A Code Kata using a cooking recipe](https://github.com/c-guntur/paneer-tikka-masala) 
+  - [c-guntur/java-katas: One repo to rule them all. All Java Katas in one repo. #AllTestsGreenWithJDK14 #BuildsCleanWithJava15](https://github.com/c-guntur/java-katas) 
+  - [eclipse/eclipse-collections-kata: Collections Kata](https://github.com/eclipse/eclipse-collections-kata) 
+  - [vmzakharov/mutate-test-kata: Code kata: using mutation testing to improve quality of unit tests](https://github.com/vmzakharov/mutate-test-kata) 
+  - [forax/design-pattern-reloaded: Implementation of GoF design patterns in Java 8](https://github.com/forax/design-pattern-reloaded) 
+  - [forax/java-guide: A guide of modern Java (Java 17)](https://github.com/forax/java-guide) 
+  - [BNYMellon/CodeKatas: BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
+
 ## Code generation
 
 ### Lombok
