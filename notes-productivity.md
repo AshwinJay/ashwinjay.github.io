@@ -12,17 +12,15 @@ Suggestions for increasing productivity and maintaining a low distraction enviro
 
 Gmail with `Multiple inboxes` enabled:
 1. Inbox (Only certain important unclassified emails stay in `Inbox`
- * The other emails have filters such as this: `Do this: Skip Inbox, Apply label "gerrit_or_build"	`)
+   1. The other emails have filters such as this: `Do this: Skip Inbox, Apply label "gerrit_or_build"	`)
 1. JIRA/Wiki (`label:jira-wiki (mentioned OR "P1" OR label:starred) -in:trash`)
-1. BitBucket (`from:bitbucket@company.com is:unread {"Fred Flintstone" "Homer Simpson" "Mickey Mouse"} `)
+1. Code reviews
+   1. BitBucket (`from:bitbucket@company.com is:unread {"Fred Flintstone" "Homer Simpson" "Mickey Mouse"} `)
+   2. Github ([repo:openjdk/jdk type:pr state:open author:def author:abc author:xyz](https://github.com/search?q=repo%3Aopenjdk%2Fjdk+type%3Apr+state%3Aopen+author%3Ajddarcy+author%3Ashipilev+author%3AAlanBateman&type=Issues))
 1. Misc (`-in:trash AND label:misc`)
 
 ### Stress free IM (Slack etc)
 
-Etiquette and chat room classification:
-
-1. All messages `Expires In a few hours` *and* `Urgent` *and* `Need response right now`
-1. Everything else goes to Email or Wiki or Issue tracker
 1. No pop-up notifications
 
 ### Distraction free computer
@@ -50,11 +48,10 @@ Etiquette and chat room classification:
 * [TaskPaper](https://www.taskpaper.com/) note taker and outliner
 * [Typora](https://typora.io/) to write specs or documents or long notes using distraction free Markdown before moving them to internal wiki or email
 * Google Chrome
-  * Organization
     * [Organize your tabs with tab groups in Google Chrome](https://blog.google/products/chrome/manage-tabs-with-google-chrome/)
     * [Tabman Tabs Manager - Chrome Web Store](https://chrome.google.com/webstore/detail/tabman-tabs-manager/hgmnkflcjcohihpdcniifjbafcdelhlm)  
     * [JIRA quick search](https://stackoverflow.com/questions/17239740/add-jira-quick-search-to-chrome-omnibox)
-  * Plugins
+    * [File tree to GitHub's Pull Request](https://github.com/berzniz/github_pr_tree)
     * [Jira subtask sortable - Change the order of JIRA sub-tasks via drag and drop](https://github.com/gaerae/jira-subtask-sortable)  
     * [JSON Editor - Chrome Web Store](https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj)  
     * [callumlocke/json-formatter: Makes JSON/JSONP easy to read](https://github.com/callumlocke/json-formatter)  
