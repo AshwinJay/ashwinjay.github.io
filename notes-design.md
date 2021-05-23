@@ -6,44 +6,47 @@
 
 # Table of Contents
 
-* [Product development lifecycle](#product-development-lifecycle)
-* [Design mnemonics - "FDSCARSS"](#design-mnemonics---fdscarss)
-* [Programming basics (Mostly for Java)](#programming-basics-mostly-for-java)
-* [Design basics](#design-basics)
-* [Documentation and information management](#documentation-and-information-management)
-* [Project maintenance and contributions](#project-maintenance-and-contributions)
-* [Testing and code review](#testing-and-code-review)
-* [Debugging and problem solving](#debugging-and-problem-solving)
-* [APIs](#apis)
-* [Computer fundamentals](#computer-fundamentals)
-* [Concurrency](#concurrency)
-* [Distributed systems](#distributed-systems)
-* [Misc tech](#misc-tech)
-  * [Learning](#learning)
-  * ["Awesome lists"](#awesome-lists)
+  * [Product development lifecycle](#product-development-lifecycle)
+  * [Design mnemonics - "FDSCARSS"](#design-mnemonics---fdscarss)
+  * [Programming basics (Mostly for Java)](#programming-basics-mostly-for-java)
+  * [Design basics](#design-basics)
+  * [Documentation and information management](#documentation-and-information-management)
+  * [Project maintenance and contributions](#project-maintenance-and-contributions)
+  * [Testing and code review](#testing-and-code-review)
+  * [Debugging and problem solving](#debugging-and-problem-solving)
+  * [APIs](#apis)
+  * [Computer fundamentals](#computer-fundamentals)
+  * [Concurrency](#concurrency)
+  * [Distributed systems](#distributed-systems)
+  * [SQL](#sql)
   * [Cloud](#cloud)
-* [Java](#java)
-  * [Java/JVM deep dive](#javajvm-deep-dive)
-  * [Guides, best practices and patterns](#guides-best-practices-and-patterns)
-  * [Code generation](#code-generation)
-     * [Lombok](#lombok)
-     * [Misc Java](#misc-java)
-  * [Dependency Injection](#dependency-injection)
-     * [Guice](#guice)
-     * [Lifecycle](#lifecycle)
-  * [Style](#style)
-     * [Visibility](#visibility)
-     * [Naming](#naming)
-     * [Member variables](#member-variables)
-     * [Formatting](#formatting)
-     * [Ordering of methods](#ordering-of-methods)
-     * [Thread safety](#thread-safety)
-     * [Constants](#constants)
-     * [(Java)Docs, comments and logs](#javadocs-comments-and-logs)
-  * [Non-Java files and resources](#non-java-files-and-resources)
-  * [Unit tests](#unit-tests)
+  * [Java](#java)
+     * [Java/JVM deep dive](#javajvm-deep-dive)
+     * [Guides, best practices and patterns](#guides-best-practices-and-patterns)
+        * [Katas](#katas)
+     * [Code generation](#code-generation)
+        * [Lombok](#lombok)
+        * [Misc Java](#misc-java)
+     * [Dependency Injection](#dependency-injection)
+        * [Guice](#guice)
+        * [Lifecycle](#lifecycle)
+     * [Style](#style)
+        * [Visibility](#visibility)
+        * [Naming](#naming)
+        * [Member variables](#member-variables)
+        * [Formatting](#formatting)
+        * [Ordering of methods](#ordering-of-methods)
+        * [Thread safety](#thread-safety)
+        * [Constants](#constants)
+        * [(Java)Docs, comments and logs](#javadocs-comments-and-logs)
+     * [Non-Java files and resources](#non-java-files-and-resources)
+     * [Unit tests](#unit-tests)
+     * [Advanced unit tests](#advanced-unit-tests)
+  * [Misc](#misc)
+     * [Learning](#learning)
+     * ["Awesome lists"](#awesome-lists)
 
-(TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc))
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 # Product development lifecycle 
 
@@ -255,20 +258,15 @@ A generic design document template for documenting Micro services](https://githu
 * [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
 * [High Scalability](http://highscalability.com/all-time-favorites/)
 
-# Misc tech
+# SQL
 
-## Learning
+* [Practical SQL for Data Analysis | Haki Benita](https://hakibenita.com/sql-for-data-analysis) 
+* [Awesome SQL Tips and Tricks - Voxxed Days Cluj - 2019](https://www.slideshare.net/VladMihalcea/awesome-sql-tips-and-tricks-voxxed-days-cluj-2019-189018546) 
+* [The Best Medium-Hard Data Analyst SQL Interview Questions - Quip](https://quip.com/2gwZArKuWk7W) 
+* [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of by Lukas Eder - YouTube](https://www.youtube.com/watch?v=wTPGW1PNy_Y) 
 
-* [Barbara Oakley: "Learning How to Learn"](https://www.youtube.com/watch?v=vd2dtkMINIw)
-* [Reading Research: A Guide for Software Engineers](https://brooker.co.za/blog/2020/05/25/reading.html)
-* [Engineering You: Martin Thompson](https://youtu.be/S4LzzuMTqjs)
- 
-## "Awesome lists"
+# Cloud
 
-* ["Awesome" lists](https://www.google.com/search?q=awesome+lists)
-* [A curated list of awesome Java frameworks, libraries and software](https://github.com/akullpp/awesome-java)
-
-## Cloud
 * [Jerry Hargrove - Cloud Diagrams & Notes](https://www.awsgeek.com/)
 * [open-guides/og-aws: Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) 
 * [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/) 
@@ -509,3 +507,21 @@ We tend to focus on the "core" parts of the test but often ignore to clarify tes
      log.debug("Expected", e)
    }
 ```
+
+## Advanced unit tests
+
+* [Property based testing](https://github.com/jlink/property-based-testing/blob/main/pbt-java/src/test/java/pbt/hwayne/can_afford.md) 
+* [Integrating PIT Mutation Testing and GitHub Pages with GitHub Actions](https://4comprehension.com/integrating-pit-mutation-testing-and-github-pages-with-github-actions/)
+
+# Misc
+
+## Learning
+
+* [Barbara Oakley: "Learning How to Learn"](https://www.youtube.com/watch?v=vd2dtkMINIw)
+* [Reading Research: A Guide for Software Engineers](https://brooker.co.za/blog/2020/05/25/reading.html)
+* [Engineering You: Martin Thompson](https://youtu.be/S4LzzuMTqjs)
+ 
+## "Awesome lists"
+
+* ["Awesome" lists](https://www.google.com/search?q=awesome+lists)
+* [A curated list of awesome Java frameworks, libraries and software](https://github.com/akullpp/awesome-java)
