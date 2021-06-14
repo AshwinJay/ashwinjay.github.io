@@ -292,6 +292,7 @@ A generic design document template for documenting Micro services](https://githu
  - [12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
 - [Avoid](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
 - [IntelliJ IDEA. Debugger Essentials](https://youtu.be/59RC8gVPlvk)
+- [Google Best Practices for Java Libraries](https://jlbp.dev/)
 
 ### Katas
   - [c-guntur/paneer-tikka-masala: A Code Kata using a cooking recipe](https://github.com/c-guntur/paneer-tikka-masala) 
