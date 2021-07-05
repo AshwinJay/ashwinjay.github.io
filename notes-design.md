@@ -203,6 +203,7 @@ A generic design document template for documenting Micro services](https://githu
 
 # Project maintenance and contributions
 
+- [Tanzu Community Engagement guidelines, community health measurements, and goals](https://github.com/vmware-tanzu/community-engagement)
 - [Cassandra contribution guide](http://cassandra.apache.org/doc/latest/development/index.html) has a nice page on code review among other things
 - [eclipse collections contributor guide](https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md#commit-messages)
 - [Strimzi contributor guide](https://strimzi.io/contributing/guide/)
@@ -230,6 +231,7 @@ A generic design document template for documenting Micro services](https://githu
 * [Microsoft API guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
 * [Google API design](https://cloud.google.com/apis/design/) 
 * [Kubernetes REST API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md)
+* [RESTful APIs and Events, created by Zalando](https://github.com/zalando/restful-api-guidelines)
 * [Evolving Java-based APIs / Achieving API Binary Compatibility](https://wiki.eclipse.org/Evolving_Java-based_APIs_2)
 * [REST API tutorial](https://restfulapi.net/)
 * [Avoid Data Corruption in Your REST API with ETags](https://www.kennethlange.com/avoid-data-corruption-in-your-rest-api-with-etags/)
