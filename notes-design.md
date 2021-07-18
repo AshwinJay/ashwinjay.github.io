@@ -58,14 +58,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
     - Non-goals
   - Assumptions
   - Risks
+  - Business objectives, service objectives
 - Definition and planning
-  - Resources
+  - Cost, scope and time ([Project management triangle(]https://en.wikipedia.org/wiki/Project_management_triangle))
   - Dependencies
   - Roles and responsibilities ([RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix))
 - Execution
   - Design and implementation
-  - See design mnemonics
+    - See design mnemonics
   - Follow up
+    - [Architecture Decision Record](https://www.google.com/search?client=firefox-b-1-d&q=architecture+decision+record)
     - Documentation
     - Training, troubleshooting and runbook
     - Operations
@@ -186,6 +188,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Programming Principles - slightly different from the ones above](http://webpro.github.io/programming-principles/)
 * [Package by Feature](https://phauer.com/2020/package-by-feature/)
 * [Microservice architecture](https://microservices.io)
+* [Laws of UX](https://lawsofux.com/)
 
 # Documentation and information management
 
