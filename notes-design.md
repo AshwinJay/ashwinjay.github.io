@@ -60,7 +60,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
   - Risks
   - Business objectives, service objectives
 - Definition and planning
-  - Cost, scope and time ([Project management triangle(]https://en.wikipedia.org/wiki/Project_management_triangle))
+  - Cost, scope and time ([Project management triangle](https://en.wikipedia.org/wiki/Project_management_triangle))
   - Dependencies
   - Roles and responsibilities ([RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix))
 - Execution
