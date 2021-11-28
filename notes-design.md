@@ -161,14 +161,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Programming basics (Mostly for Java)
 
 * [How To Write Unmaintainable Code](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
+* [Clean Code by Robert Cecil Martin](https://www.google.com/search?q=Clean+Code+by+Robert+Cecil+Martin&ie=utf-8&oe=utf-8) ([Cheat sheet](https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf))
+* [Java by Comparison - Become a Java Craftsman in 70 Examples by Simon Harrer, Jörg Lenhard, Linus Dietz](https://pragprog.com/book/javacomp/java-by-comparison)
+* [Effective Java, Third Edition Keepin' it Effective by Joshua Bloch](https://www.youtube.com/watch?v=hSfylUXhpkA)
+* [Learn to use the IDE/IntelliJ well](http://blog.jetbrains.com/idea/tag/30-days-guide/)
 * Java coding standards (Oracle's guide has not been updated since 1999)
   * [Google style guide](https://google.github.io/styleguide/) 
   * [Sun's/Oracle's style guide is now stale](http://www.oracle.com/technetwork/java/index-135089.html)
   * [Secure coding](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java) 
-* [Effective Java by Joshua Bloch](https://www.google.com/search?q=Effective+Java+Book+by+Joshua+Bloch&ie=utf-8&oe=utf-8)
-* [Clean Code by Robert Cecil Martin](https://www.google.com/search?q=Clean+Code+by+Robert+Cecil+Martin&ie=utf-8&oe=utf-8) ([Cheat sheet](https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf))
-* [Java by Comparison - Become a Java Craftsman in 70 Examples by Simon Harrer, Jörg Lenhard, Linus Dietz](https://pragprog.com/book/javacomp/java-by-comparison)
-* [Learn to use the IDE/IntelliJ well](http://blog.jetbrains.com/idea/tag/30-days-guide/)
 * Follow the basic [Sun/Oracle/Google guidelines](https://github.com/kciter/awesome-style-guide#java)
 * Use tools like Checkstyle/PMD/FindBugs/SpotBugs/ErrorProne/Infer to do the first level checks
 * Use IntelliJ/Eclipse/IDE's formatting and fix compiler/IDE warnings
@@ -229,13 +229,10 @@ A generic design document template for documenting Micro services](https://githu
 
 # APIs
 
-* [10 Reasons Why we Love Some APIs and Why we Hate Some Others by Lukas Eder](https://youtu.be/CYniPcoiI5g)
-* [Josh Bloch on API design](https://www.google.com/search?q=josh+block+api+talk&ie=utf-8&oe=utf-8#q=josh+bloch+api+talk)
 * [Microsoft API guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
 * [Google API design](https://cloud.google.com/apis/design/) 
 * [Kubernetes REST API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md)
 * [RESTful APIs and Events, created by Zalando](https://github.com/zalando/restful-api-guidelines)
-* [Evolving Java-based APIs / Achieving API Binary Compatibility](https://wiki.eclipse.org/Evolving_Java-based_APIs_2)
 * [REST API tutorial](https://restfulapi.net/)
 * [Avoid Data Corruption in Your REST API with ETags](https://www.kennethlange.com/avoid-data-corruption-in-your-rest-api-with-etags/)
 * [Boost Your REST API with HTTP Caching](https://www.kennethlange.com/boost-your-rest-api-with-http-caching/) 
@@ -291,7 +288,10 @@ A generic design document template for documenting Micro services](https://githu
  - [Behind the scenes: How do lambda expressions really work in Java?](https://blogs.oracle.com/javamagazine/behind-the-scenes-how-do-lambda-expressions-really-work-in-java)
 
 ## Guides, best practices and patterns
-
+ - [10 Reasons Why we Love Some APIs and Why we Hate Some Others by Lukas Eder](https://youtu.be/CYniPcoiI5g)
+ - [Let's make a contract: the art of designing a Java API by Mario Fusco](https://www.youtube.com/watch?v=eRzi8beFBw4)
+ - [Josh Bloch on API design](https://www.google.com/search?q=josh+block+api+talk&ie=utf-8&oe=utf-8#q=josh+bloch+api+talk)
+ - [Evolving Java-based APIs / Achieving API Binary Compatibility](https://wiki.eclipse.org/Evolving_Java-based_APIs_2)
  - [Trustin Lee: Writing a Java library with better experience](https://youtu.be/0eQbsVLxmMk)
  - [Date-Time Design Principles](https://docs.oracle.com/javase/tutorial/datetime/overview/design.html)
  - [12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
