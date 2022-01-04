@@ -297,6 +297,7 @@ A generic design document template for documenting Micro services](https://githu
  - [The art of building Java APIs: Do's and Don'ts - Jonathan Giles](https://youtu.be/r1o6fUhAd8w)
  - [JooQ API design](https://blog.jooq.org/tag/api-design/)
  - [Java API design checklist](https://theamiableapi.com/2012/01/16/java-api-design-checklist/)
+ - [Java Design Patterns](https://java-design-patterns.com/)
  - [12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
 - [Avoid](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
 - [IntelliJ IDEA. Debugger Essentials](https://youtu.be/59RC8gVPlvk)
