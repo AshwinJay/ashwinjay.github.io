@@ -281,6 +281,7 @@ A generic design document template for documenting Micro services](https://githu
  - [JVM bytecode](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
  - [JVM internals](http://blog.jamesdbloom.com/JVMInternals.html)
  - [No Free Lunch? Memory Allocation in the JVM](https://youtu.be/NY1S0M4i-xM)
+ - [Java at Speed](https://youtu.be/ot3PESmNXhE)
  - [Aleksey Shipilёv's posts describing some elementary piece of knowledge about JVM](https://shipilev.net/jvm/anatomy-quarks/)
  - [Time To Really Learn Generics: A Java 8 Perspective](https://nofluffjuststuff.com/magazine/2016/09/time_to_really_learn_generics_a_java_8_perspective)
  - [Mastering the mechanics of Java method invocation](https://blogs.oracle.com/javamagazine/mastering-the-mechanics-of-java-method-invocation)
