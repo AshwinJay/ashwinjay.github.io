@@ -222,6 +222,7 @@ A generic design document template for documenting Micro services](https://githu
 - [Chromium Project - Respectful Code Reviews](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md) 
 - [Chromium Project - Respectful Changes](https://chromium.googlesource.com/chromium/src/+/master/docs/cl_respect.md)
 - [Don't be mocked by your Mocks: Listening to your Tests](https://youtu.be/pKBjufM024U)
+- [A Software Engineer’s Guide to Giving Feedback that Actually Matters](https://shopify.engineering/software-engineers-guide-to-feedback-that-matters)
 
 # Debugging and problem solving
 - [Situation, task, action, result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
@@ -535,5 +536,6 @@ We tend to focus on the "core" parts of the test but often ignore to clarify tes
  
 ## "Awesome lists"
 
+* [(My very own) Ashwin Jayaprakash's tech blog](https://www.ashwinjayaprakash.com/search/label/tech)
 * ["Awesome" lists](https://www.google.com/search?q=awesome+lists)
 * [A curated list of awesome Java frameworks, libraries and software](https://github.com/akullpp/awesome-java)
