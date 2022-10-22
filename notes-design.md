@@ -305,6 +305,7 @@ A generic design document template for documenting Micro services](https://githu
 - [IntelliJ IDEA. Debugger Essentials](https://youtu.be/59RC8gVPlvk)
 - [Google Best Practices for Java Libraries](https://jlbp.dev/)
 - [A corner case cheat sheet for Java and JVM languages](https://ge0ffrey.github.io/ge0ffrey-presentations/cornerCaseCheatSheet/#/)
+- [Secrets of Performance Tuning Java on Kubernetes by Bruno Borges](https://youtu.be/wApqCjHWF8Q)
 
 ### Katas
   - [c-guntur/paneer-tikka-masala: A Code Kata using a cooking recipe](https://github.com/c-guntur/paneer-tikka-masala) 
