@@ -527,6 +527,10 @@ We tend to focus on the "core" parts of the test but often ignore to clarify tes
 * [Property based testing](https://github.com/jlink/property-based-testing/blob/main/pbt-java/src/test/java/pbt/hwayne/can_afford.md) 
 * [Integrating PIT Mutation Testing and GitHub Pages with GitHub Actions](https://4comprehension.com/integrating-pit-mutation-testing-and-github-pages-with-github-actions/)
 
+## Compilation and more
+
+* [Understanding Gradle](https://www.youtube.com/playlist?list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
+
 # Misc
 
 ## Learning
