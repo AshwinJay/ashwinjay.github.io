@@ -240,6 +240,7 @@ A generic design document template for documenting Micro services](https://githu
 * [REST API Checklist - Kenneth Lange](https://www.kennethlange.com/rest-api-checklist/)
 * [7 Tips for Designing a Better REST API](https://www.kennethlange.com/7-tips-for-designing-a-better-rest-api/)
 * [A guide to help you write better command-line programs](https://github.com/cli-guidelines/cli-guidelines)
+* [10 patterns for more resilient applications | Uwe Friedrichsen](https://youtu.be/G4bv3_paII0)
 
 # Computer fundamentals
 
