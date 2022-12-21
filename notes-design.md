@@ -189,6 +189,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Package by Feature](https://phauer.com/2020/package-by-feature/)
 * [Microservice architecture](https://microservices.io)
 * [Laws of UX](https://lawsofux.com/)
+* [Hexagonal Architecture and Payments Monolith decomposition | Johnny Willer](https://youtu.be/tBCLfRKQjew)
+* [Mateusz Chrzonstowski - My understanding of DDD & Clean Architecture on the example](https://youtu.be/KIj-q8uOUpM)
 
 # Documentation and information management
 
