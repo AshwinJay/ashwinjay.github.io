@@ -226,6 +226,7 @@ A generic design document template for documenting Micro services](https://githu
 - [Don't be mocked by your Mocks: Listening to your Tests](https://youtu.be/pKBjufM024U)
 - [A Software Engineer’s Guide to Giving Feedback that Actually Matters](https://shopify.engineering/software-engineers-guide-to-feedback-that-matters)
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+- [Testing legacy code when you dislike tests (and legacy code) by Maeve Revels ](https://youtu.be/ufIGaySoQWY)
 
 # Debugging and problem solving
 - [Situation, task, action, result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
