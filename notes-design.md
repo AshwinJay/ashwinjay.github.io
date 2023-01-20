@@ -266,6 +266,7 @@ A generic design document template for documenting Micro services](https://githu
 
 * [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
 * [High Scalability](http://highscalability.com/all-time-favorites/)
+* [Stability Patterns and Antipatterns, Michael Nygard](https://youtu.be/IV2bQO9TfTk)
 
 # SQL
 
