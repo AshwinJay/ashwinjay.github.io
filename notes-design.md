@@ -541,11 +541,12 @@ We tend to focus on the "core" parts of the test but often ignore to clarify tes
 
 # Misc
 
-## Learning
+## Learning and leadership
 
 * [Barbara Oakley: "Learning How to Learn"](https://www.youtube.com/watch?v=vd2dtkMINIw)
 * [Reading Research: A Guide for Software Engineers](https://brooker.co.za/blog/2020/05/25/reading.html)
 * [Engineering You: Martin Thompson](https://youtu.be/S4LzzuMTqjs)
+* [Understanding the role of a principal engineer](https://youtu.be/OcwpMBfZoek)
  
 ## "Awesome lists"
 
