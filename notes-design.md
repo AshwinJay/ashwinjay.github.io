@@ -192,6 +192,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Laws of UX](https://lawsofux.com/)
 * [Hexagonal Architecture and Payments Monolith decomposition | Johnny Willer](https://youtu.be/tBCLfRKQjew)
 * [Mateusz Chrzonstowski - My understanding of DDD & Clean Architecture on the example](https://youtu.be/KIj-q8uOUpM)
+* [I Made Everything Loosely Coupled. Does My App Fall Apart? - Gregor Hohpe](https://youtu.be/w9a7eI6BlVc)
 
 # Documentation and information management
 
