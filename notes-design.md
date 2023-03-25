@@ -1,6 +1,5 @@
 > [Ashwin Jayaprakash](https://ashwinjay.github.io/)
 > [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-> (An opinionated collection)
 
 # Table of Contents
 
@@ -29,7 +28,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 # About
 
-This is a collection of reading material that I've collected over the years to help me become a better Engineer. It is not an exhaustive list. I share some more on a somewhat regular basis on [my Tech Blog](https://www.ashwinjayaprakash.com/search/label/tech). I also do a lot of general reading on leadership, culture, org building etc but I haven't found the time to share those.
+This is an opinionated collection of reading material that I've collected over the years to help me become a better Engineer. It is not an exhaustive list. I share some more on a somewhat regular basis on [my Tech Blog](https://www.ashwinjayaprakash.com/search/label/tech). I also do a lot of general reading on leadership, culture, org building etc but I haven't found the time to share those.
 
 # Problem solving
 
