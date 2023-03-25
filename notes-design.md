@@ -1,5 +1,3 @@
-# Designing, programming, testing, writing & other useful topics
-
 > [Ashwin Jayaprakash](https://ashwinjay.github.io/)
 > [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 > (An opinionated collection)
@@ -73,7 +71,7 @@ This is a collection of reading material that I've collected over the years to h
   * [Package by Feature](https://phauer.com/2020/package-by-feature/)
   * [Microservice architecture](https://microservices.io)
   * [Laws of UX](https://lawsofux.com/)
-  * [Hexagonal Architecture and Payments Monolith decomposition | Johnny Willer](https://youtu.be/tBCLfRKQjew)
+  * [Hexagonal Architecture and Payments Monolith decomposition - Johnny Willer](https://youtu.be/tBCLfRKQjew)
   * [Mateusz Chrzonstowski - My understanding of DDD & Clean Architecture on the example](https://youtu.be/KIj-q8uOUpM)
   * [I Made Everything Loosely Coupled. Does My App Fall Apart? - Gregor Hohpe](https://youtu.be/w9a7eI6BlVc)
 
@@ -277,12 +275,12 @@ A generic design document template for documenting Micro services](https://githu
 
 * Resilience
   * [Stability Patterns and Antipatterns, Michael Nygard](https://youtu.be/IV2bQO9TfTk)
-  * [10 patterns for more resilient applications | Uwe Friedrichsen](https://youtu.be/G4bv3_paII0)
+  * [10 patterns for more resilient applications - Uwe Friedrichsen](https://youtu.be/G4bv3_paII0)
 
 
 # SQL
 
-* [Practical SQL for Data Analysis | Haki Benita](https://hakibenita.com/sql-for-data-analysis) 
+* [Practical SQL for Data Analysis - Haki Benita](https://hakibenita.com/sql-for-data-analysis) 
 * [Awesome SQL Tips and Tricks - Voxxed Days Cluj - 2019](https://www.slideshare.net/VladMihalcea/awesome-sql-tips-and-tricks-voxxed-days-cluj-2019-189018546) 
 * [The Best Medium-Hard Data Analyst SQL Interview Questions - Quip](https://quip.com/2gwZArKuWk7W) 
 * [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of by Lukas Eder - YouTube](https://www.youtube.com/watch?v=wTPGW1PNy_Y) 
