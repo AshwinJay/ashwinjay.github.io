@@ -58,7 +58,6 @@ This is an opinionated collection of reading material that I've collected over t
 # Best practices
 
 * General
-
   * [SOLID design patterns](https://www.google.com/search?q=solid+design+patterns&ie=utf-8&oe=utf-8)
   * [Summary of OCP, SRP etc](http://programmers.stackexchange.com/questions/162643/why-is-clean-code-suggesting-avoiding-protected-variables/162657#162657)
   * [Venkat Subramaniam Design Patterns talks](https://www.youtube.com/results?search_query=venkat+subramaniam+design+patterns)
@@ -73,9 +72,7 @@ This is an opinionated collection of reading material that I've collected over t
   * [Hexagonal Architecture and Payments Monolith decomposition - Johnny Willer](https://youtu.be/tBCLfRKQjew)
   * [Mateusz Chrzonstowski - My understanding of DDD & Clean Architecture on the example](https://youtu.be/KIj-q8uOUpM)
   * [I Made Everything Loosely Coupled. Does My App Fall Apart? - Gregor Hohpe](https://youtu.be/w9a7eI6BlVc)
-
 * Java
-
   * [Best Practices for Designing and Implementing a Library in Java]( https://www.oracle.com/corporate/features/library-in-java-best-practices.html?evite=WWMK170414P00004)
   * [Effective Java, Third Edition Keepin' it Effective by Joshua Bloch](https://www.youtube.com/watch?v=hSfylUXhpkA)
   * [Josh Bloch on API design](https://www.google.com/search?q=josh+block+api+talk&ie=utf-8&oe=utf-8#q=josh+bloch+api+talk)
@@ -96,17 +93,11 @@ This is an opinionated collection of reading material that I've collected over t
   * [12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
   * [Avoid](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
   * [A corner case cheat sheet for Java and JVM languages](https://ge0ffrey.github.io/ge0ffrey-presentations/cornerCaseCheatSheet/#/)
-
 * Style
-
-    - [Google style guide](https://google.github.io/styleguide/) 
-
+    - [Google style guide](https://google.github.io/styleguide/)
     - [A list of awesome style guides](https://github.com/kciter/awesome-style-guide#java)
-
     - Use tools to enforce a consistent, standard coding style (Checkstyle/PMD/FindBugs/SpotBugs/ErrorProne/Infer to do the first level checks)
-
     - Use IDEs and tools to format and fix compiler/IDE warnings
-
 * APIs and CLIs
   * [Microsoft API guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
   * [Google API design](https://cloud.google.com/apis/design/) 
@@ -122,7 +113,7 @@ This is an opinionated collection of reading material that I've collected over t
 # Code Katas
 
   - [c-guntur/paneer-tikka-masala: A Code Kata using a cooking recipe](https://github.com/c-guntur/paneer-tikka-masala) 
-  - [c-guntur/java-katas: One repo to rule them all. All Java Katas in one repo. #AllTestsGreenWithJDK14 #BuildsCleanWithJava15](https://github.com/c-guntur/java-katas) 
+  - [c-guntur/java-katas: One repo to rule them all. All Java Katas in one repo](https://github.com/c-guntur/java-katas) 
   - [eclipse/eclipse-collections-kata: Collections Kata](https://github.com/eclipse/eclipse-collections-kata) 
   - [vmzakharov/mutate-test-kata: Code kata: using mutation testing to improve quality of unit tests](https://github.com/vmzakharov/mutate-test-kata) 
   - [forax/design-pattern-reloaded: Implementation of GoF design patterns in Java 8](https://github.com/forax/design-pattern-reloaded) 
@@ -271,11 +262,9 @@ A generic design document template for documenting Micro services](https://githu
 * General
   * [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
   * [High Scalability](http://highscalability.com/all-time-favorites/)
-
 * Resilience
   * [Stability Patterns and Antipatterns, Michael Nygard](https://youtu.be/IV2bQO9TfTk)
   * [10 patterns for more resilient applications - Uwe Friedrichsen](https://youtu.be/G4bv3_paII0)
-
 
 # SQL
 
