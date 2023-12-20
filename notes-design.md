@@ -244,6 +244,7 @@ A generic design document template for documenting Micro services](https://githu
    - [No Free Lunch? Memory Allocation in the JVM](https://youtu.be/NY1S0M4i-xM)
    - [Java at Speed](https://youtu.be/ot3PESmNXhE)
    - [Aleksey Shipilёv's posts describing some elementary piece of knowledge about JVM](https://shipilev.net/jvm/anatomy-quarks/)
+   - [JVM Anatomy 101](https://www.youtube.com/watch?v=BeMi8K0AFAc)
    - [Time To Really Learn Generics: A Java 8 Perspective](https://nofluffjuststuff.com/magazine/2016/09/time_to_really_learn_generics_a_java_8_perspective)
    - [Mastering the mechanics of Java method invocation](https://blogs.oracle.com/javamagazine/mastering-the-mechanics-of-java-method-invocation)
    - [Understanding Java method invocation with invokedynamic](https://blogs.oracle.com/javamagazine/understanding-java-method-invocation-with-invokedynamic)
