@@ -125,8 +125,11 @@ This is an opinionated collection of reading material that I've collected over t
 
 - [Cassandra testing guidelines](https://github.com/apache/cassandra/blob/trunk/TESTING.md)
 - [Don't be mocked by your Mocks: Listening to your Tests](https://youtu.be/pKBjufM024U)
-- [Testing legacy code when you dislike tests (and legacy code) by Maeve Revels ](https://youtu.be/ufIGaySoQWY)
+- [Testing legacy code when you dislike tests (and legacy code) by Maeve Revels](https://youtu.be/ufIGaySoQWY)
+- [Effective Unit Testing by Eliotte Rusty Harold](https://youtu.be/fr1E9aVnBxw?si=ocFnR3BEG1qe9kFi)
+- [Write awesome tests by Jeroen Mols](https://youtu.be/F8Gc8Nwf0yk?si=3imI_0e060kBBTo4)
 - [An Ultimate Guide To BDD](https://www.youtube.com/watch?v=gXh0iUt4TXA)
+- [The lazy programmer's guide to writing thousands of tests - Scott Wlaschin](https://youtu.be/IYzDFHx6QPY?si=jcT1rBy8DSdWft7P)
 - [Property based testing](https://github.com/jlink/property-based-testing/blob/main/pbt-java/src/test/java/pbt/hwayne/can_afford.md) 
 - [Integrating PIT Mutation Testing and GitHub Pages with GitHub Actions](https://4comprehension.com/integrating-pit-mutation-testing-and-github-pages-with-github-actions/)
 
