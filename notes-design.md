@@ -10,8 +10,6 @@
 * [IDEs](#ides)
 * [Best practices](#best-practices)
 * [Code Katas](#code-katas)
-* [Testing](#testing)
-* [Documentation and information management](#documentation-and-information-management)
 * [Code reviews](#code-reviews)
 * [Design mnemonics - "FDSCARSS"](#design-mnemonics---fdscarss)
 * [Performance and deep dives](#performance-and-deep-dives)
@@ -19,7 +17,11 @@
 * [Distributed systems](#distributed-systems)
 * [SQL](#sql)
 * [Cloud](#cloud)
+* [Testing](#testing)
+* [Documentation and information management](#documentation-and-information-management)
 * [Product development lifecycle](#product-development-lifecycle)
+* [Engineering excellence](#engineering-excellence)
+* [Operational excellence](#operational-excellence)
 * [Project maintenance and contributions](#project-maintenance-and-contributions)
 * [Learning and leadership](#learning-and-leadership)
 * ["Awesome" lists](#awesome-lists)
@@ -120,32 +122,6 @@ This is an opinionated collection of reading material that I've collected over t
   - [forax/design-pattern-reloaded: Implementation of GoF design patterns in Java 8](https://github.com/forax/design-pattern-reloaded) 
   - [forax/java-guide: A guide of modern Java (Java 17)](https://github.com/forax/java-guide) 
   - [BNYMellon/CodeKatas: BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
-
-# Testing
-
-- [Cassandra testing guidelines](https://github.com/apache/cassandra/blob/trunk/TESTING.md)
-- [Don't be mocked by your Mocks: Listening to your Tests](https://youtu.be/pKBjufM024U)
-- [Testing legacy code when you dislike tests (and legacy code) by Maeve Revels](https://youtu.be/ufIGaySoQWY)
-- [Effective Unit Testing by Eliotte Rusty Harold](https://youtu.be/fr1E9aVnBxw?si=ocFnR3BEG1qe9kFi)
-- [Write awesome tests by Jeroen Mols](https://youtu.be/F8Gc8Nwf0yk?si=3imI_0e060kBBTo4)
-- [An Ultimate Guide To BDD](https://www.youtube.com/watch?v=gXh0iUt4TXA)
-- [The lazy programmer's guide to writing thousands of tests - Scott Wlaschin](https://youtu.be/IYzDFHx6QPY?si=jcT1rBy8DSdWft7P)
-- [Property based testing](https://github.com/jlink/property-based-testing/blob/main/pbt-java/src/test/java/pbt/hwayne/can_afford.md) 
-- [Integrating PIT Mutation Testing and GitHub Pages with GitHub Actions](https://4comprehension.com/integrating-pit-mutation-testing-and-github-pages-with-github-actions/)
-
-# Documentation and information management
-
-- [US Government plain language guidelines](https://plainlanguage.gov/)
-- [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
-- [Effective software design documents](https://wecode.wepay.com/posts/effective-software-design-documents) & [
-A generic design document template for documenting Micro services](https://github.com/wepay/design_doc_template)
-- [Google Developer Documentation Style Guide](https://developers.google.com/style/)
-- [The Modular Documentation Project Source Repository](https://github.com/redhat-documentation/modular-docs)
-- [The Art of Code Comments - Sarah Drasner](https://youtu.be/yhF7OmuIILc)
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- [Conventional Commits - specification for adding human and machine readable meaning to commit messages](https://www.conventionalcommits.org/en/v1.0.0/)
-- [If Hemingway Wrote JavaDocs](https://www.youtube.com/watch?v=DEW_SRk6mCU)
-- [Keep a Changelog](https://keepachangelog.com)
 
 # Code reviews
 
@@ -286,6 +262,32 @@ A generic design document template for documenting Micro services](https://githu
 * [Amazon Web Services (also in plain English)](https://adayinthelifeof.nl/2020/05/20/aws.html) 
 * [AWS services explained in one line each](https://news.ycombinator.com/item?id=23309269)
 
+# Testing
+
+- [Cassandra testing guidelines](https://github.com/apache/cassandra/blob/trunk/TESTING.md)
+- [Don't be mocked by your Mocks: Listening to your Tests](https://youtu.be/pKBjufM024U)
+- [Testing legacy code when you dislike tests (and legacy code) by Maeve Revels](https://youtu.be/ufIGaySoQWY)
+- [Effective Unit Testing by Eliotte Rusty Harold](https://youtu.be/fr1E9aVnBxw?si=ocFnR3BEG1qe9kFi)
+- [Write awesome tests by Jeroen Mols](https://youtu.be/F8Gc8Nwf0yk?si=3imI_0e060kBBTo4)
+- [An Ultimate Guide To BDD](https://www.youtube.com/watch?v=gXh0iUt4TXA)
+- [The lazy programmer's guide to writing thousands of tests - Scott Wlaschin](https://youtu.be/IYzDFHx6QPY?si=jcT1rBy8DSdWft7P)
+- [Property based testing](https://github.com/jlink/property-based-testing/blob/main/pbt-java/src/test/java/pbt/hwayne/can_afford.md) 
+- [Integrating PIT Mutation Testing and GitHub Pages with GitHub Actions](https://4comprehension.com/integrating-pit-mutation-testing-and-github-pages-with-github-actions/)
+
+# Documentation and information management
+
+- [US Government plain language guidelines](https://plainlanguage.gov/)
+- [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+- [Effective software design documents](https://wecode.wepay.com/posts/effective-software-design-documents) & [
+A generic design document template for documenting Micro services](https://github.com/wepay/design_doc_template)
+- [Google Developer Documentation Style Guide](https://developers.google.com/style/)
+- [The Modular Documentation Project Source Repository](https://github.com/redhat-documentation/modular-docs)
+- [The Art of Code Comments - Sarah Drasner](https://youtu.be/yhF7OmuIILc)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Conventional Commits - specification for adding human and machine readable meaning to commit messages](https://www.conventionalcommits.org/en/v1.0.0/)
+- [If Hemingway Wrote JavaDocs](https://www.youtube.com/watch?v=DEW_SRk6mCU)
+- [Keep a Changelog](https://keepachangelog.com)
+
 # Product development lifecycle 
 
 (Keep in mind that the stages are iterative with feedback loops)
@@ -318,6 +320,14 @@ A generic design document template for documenting Micro services](https://githu
 - Messaging
   - Marketing
   - Notifications
+
+# Engineering excellence
+
+* [We invested 10% to pay back tech debt; Here's what happened](https://blog.alexewerlof.com/p/tech-debt-day)
+
+# Operational excellence
+
+* [How to Best Use MTT* Metrics to Optimize Your Incident Response](https://www.infoq.com/articles/mtt-metrics-incident-response/)
 
 # Project maintenance and contributions
 
