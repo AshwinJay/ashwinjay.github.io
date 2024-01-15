@@ -2,32 +2,32 @@
 
 ([Ashwin Jayaprakash](https://ashwinjay.github.io/))
 
-### Things that give me satisfaction and peace of mind ...
+### (Baseline) Things that give me satisfaction and peace of mind ...
 
   - I am partial to efficiency, organization and meticulousness
   - I value simplicity, aesthetics and quality over quantity
   - I prefer passionate focus on a handful of things and delegate the rest, meaningfully (still working on the latter)
+  - My foundation is the health, happiness and safety of my family
 
-### What drives me ...
+### (Peak) What drives me ...
 
   - Intellectual stimulation
   - Constant improvement (*Kaizen*)
   - Curiosity and a desire to learn, improve, share and coach
   - A fulfilling career and life (still discovering and understanding what that means)
 
-### What I strive for personally, and look for in others ...
+### (Bias) What I strive for personally, and look for in others ...
 
-  - Humility and curiosity
+  - Humility and curiosity (Read: Growth vs fixed mindset)
   - Honesty and sincerity
   - Determination and passion
   - Organization and elegance
-  - Objectivity and clarity of thought
-  - Frugality and generosity (still working on the latter)
-  - Emotional literacy and self-control (still working on it)
-  - Empathy and compassion (still working on it)
-  - Patience and kindness (still working on it)
+  - Objectivity, positivity and clarity of thought (Read: Framing, context and compartmentalization)
+  - Frugality and generosity (still working on the latter) (Read: Givers vs matchers vs takers, Abundance vs scarcity mindset)
+  - Emotional literacy and self-control (still working on it) (Read: Non-violent communication, emotional intelligence)
+  - Empathy, patience and kindness (still working on it) (Read: Kindness is underrated)
 
-### My general lifestyle ...
+### (Style) My general lifestyle ...
 
   - I value my personal time, when I can learn, grow, reflect and relax with my family
   - I value "experiences over things"
