@@ -264,6 +264,7 @@ This is an opinionated collection of reading material that I've collected over t
 
 # Testing
 
+- [Test Desiderata](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
 - [Cassandra testing guidelines](https://github.com/apache/cassandra/blob/trunk/TESTING.md)
 - [Don't be mocked by your Mocks: Listening to your Tests](https://youtu.be/pKBjufM024U)
 - [Testing legacy code when you dislike tests (and legacy code) by Maeve Revels](https://youtu.be/ufIGaySoQWY)
