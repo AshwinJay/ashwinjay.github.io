@@ -135,7 +135,7 @@ This is an opinionated collection of reading material that I've collected over t
 
 # Design mnemonics - "FDSCARSS"
 
-(Also see [12 Factor](https://12factor.net/))
+(Also see [12 Factor](https://12factor.net/), [FURPS / Functional Usability Reliability Performance Supportability](https://en.wikipedia.org/wiki/FURPS))
 
 * **F**unctional requirements
   * Structure 
