@@ -243,6 +243,7 @@ This is an opinionated collection of reading material that I've collected over t
 * General
   * [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
   * [High Scalability](http://highscalability.com/all-time-favorites/)
+  * [Not Just Scale - Marc Brooker](https://brooker.co.za/blog/2024/06/04/scale.html)
 * Resilience
   * [Stability Patterns and Antipatterns, Michael Nygard](https://youtu.be/IV2bQO9TfTk)
   * [10 patterns for more resilient applications - Uwe Friedrichsen](https://youtu.be/G4bv3_paII0)
