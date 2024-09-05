@@ -252,7 +252,7 @@ This is an opinionated collection of reading material that I've collected over t
 
 * [Practical SQL for Data Analysis - Haki Benita](https://hakibenita.com/sql-for-data-analysis) 
 * [Awesome SQL Tips and Tricks - Voxxed Days Cluj - 2019](https://www.slideshare.net/VladMihalcea/awesome-sql-tips-and-tricks-voxxed-days-cluj-2019-189018546) 
-* [The Best Medium-Hard Data Analyst SQL Interview Questions - Quip](https://quip.com/2gwZArKuWk7W) 
+* [How Query Engines Work](https://www.howqueryengineswork.com/)
 * [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of by Lukas Eder - YouTube](https://www.youtube.com/watch?v=wTPGW1PNy_Y) 
 
 # Cloud
