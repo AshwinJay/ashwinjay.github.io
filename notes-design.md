@@ -19,7 +19,6 @@
 * [Cloud](#cloud)
 * [Testing](#testing)
 * [Documentation and information management](#documentation-and-information-management)
-* [Product development lifecycle](#product-development-lifecycle)
 * [Engineering excellence](#engineering-excellence)
 * [Operational excellence](#operational-excellence)
 * [Project maintenance and contributions](#project-maintenance-and-contributions)
@@ -228,6 +227,9 @@ This is an opinionated collection of reading material that I've collected over t
     - Short lived tokens
     - Key rotation
     - ...
+- Concept - Offline vs online, hot path
+  - Spread - CDN, Edge network
+  - Online vs offline, async - Analytics, notifications, repairs, reconciliation
 
 # Performance and deep dives
 
@@ -308,39 +310,6 @@ A generic design document template for documenting Micro services](https://githu
 - [Conventional Commits - specification for adding human and machine readable meaning to commit messages](https://www.conventionalcommits.org/en/v1.0.0/)
 - [If Hemingway Wrote JavaDocs](https://www.youtube.com/watch?v=DEW_SRk6mCU)
 - [Keep a Changelog](https://keepachangelog.com)
-
-# Product development lifecycle 
-
-(Keep in mind that the stages are iterative with feedback loops)
-
-- Discovery
-  - Scope
-    - Goals
-    - Non-goals
-  - Assumptions
-  - Risks
-  - Business objectives, service objectives
-- Definition and planning
-  - Cost, scope and time ([Project management triangle](https://en.wikipedia.org/wiki/Project_management_triangle))
-  - Dependencies
-  - Roles and responsibilities ([RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix))
-- Execution
-  - Design and implementation
-    - See design mnemonics
-  - Follow up
-    - [Architecture Decision Record](https://www.google.com/search?client=firefox-b-1-d&q=architecture+decision+record)
-    - Documentation
-    - Training, troubleshooting and runbook
-    - Operations
-    - Support
-    - Maintenance
-- Sign-off
-  - Feature completeness and acceptance
-  - Proof of design and code quality
-  - Proof of test quality (coverage, fuzz)
-- Messaging
-  - Marketing
-  - Notifications
 
 # Engineering excellence
 
