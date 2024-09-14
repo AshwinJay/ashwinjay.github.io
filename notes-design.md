@@ -193,9 +193,10 @@ This is an opinionated collection of reading material that I've collected over t
     - Rendezvous hash
     - ...
 - Concept - Reads, writes and operations
-  - Arrival time, wait time, service time
-  - Read and write ratio
   - Space and compute complexity
+    - Arrival time, wait time, service time
+    - Read and write ratio
+    - Compression
   - Crosstalk
     - Coordination
     - Contention
@@ -228,14 +229,14 @@ This is an opinionated collection of reading material that I've collected over t
   - Measures
     - Monitoring
     - Alerting
-    - Preparation
-      - Tests - chaos and synthetic
-      - Feature flags and rollouts
+  - Preparation
+    - Runbooks and incident response
+    - Tests - chaos and synthetic
+    - Feature flags and rollouts
     - Toil
       - Auto repair
       - Auto scale up and back to zero
-      - Incident response
-
+    
 # Performance and deep dives
 
 * General
