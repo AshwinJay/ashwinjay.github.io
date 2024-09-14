@@ -11,7 +11,7 @@
 * [Best practices](#best-practices)
 * [Code Katas](#code-katas)
 * [Code reviews](#code-reviews)
-* [Design mnemonics - "FDSCARSS"](#design-mnemonics---fdscarss)
+* [System design basics](#system-design-basics)
 * [Performance and deep dives](#performance-and-deep-dives)
 * [Concurrency](#concurrency)
 * [Distributed systems](#distributed-systems)
@@ -133,82 +133,101 @@ This is an opinionated collection of reading material that I've collected over t
 - [A Software Engineer’s Guide to Giving Feedback that Actually Matters](https://shopify.engineering/software-engineers-guide-to-feedback-that-matters)
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 
-# Design mnemonics - "FDSCARSS"
+# System design basics
 
 (Also see [12 Factor](https://12factor.net/), [FURPS / Functional Usability Reliability Performance Supportability](https://en.wikipedia.org/wiki/FURPS))
 
-* **F**unctional requirements
-  * Structure 
-    * Goals and non-goals
-    * Assumptions, tradeoffs and risks
-    * Constraints (Skills, technology, cost, time, regulations)
-    * Success measures (KPIs)
-  * Fast, Inexpensive, Restrained, and Elegant (Dan Ward)
-    * Necessary and sufficient
-    * Usable, delightful and relevant (Minimal lovable and viable product)
-    * Plan to deliver incremental value
-* **D**ata and everything related
-  * Core business logic (Algorithms and data structures)
-  * Metadata
-  * Data
-  * Configurations
-  * Code
-  * Namespace and tenancy
-  * Governance
-    * Visibility and privacy
-    * Residence and lifetime
-    * Quality and lineage
-* **S**ecurity (Shift left)
-  * Authentication and authorization
-  * Audit of code, roles, policies, infrastructure and logs
-  * Secure and least privilege, by default
-  * Minimize attack surface and impact
-  * Update of security algorithms and software versions
-  * Rotation of keys and certificates
-* **C**ompatibility
-  * Lifecycle (Install, update, troubleshoot, purge, uninstall)
-  * Schemas, APIs & DTOs (Versions, contracts)
-* **A**vailability, **R**eliability and **S**calability
-  * Usage types, patterns and trends
-    * Time of day, regions, growth, read-write ratios
-    * Traffic shape, quality of service, back pressure, queue depth
-    * CPU, network, disk limits
-  * Concurrency and parallelism
-    * Amdahl's law, Little's law, Universal scalability law  
-    * Latency and throughput
-  * ACID and CAP  
-    * Caches, consistency
-    * Routing, sharding, replication
-  * Fault tolerance and recovery
-    * Backup-restore, active-standby, active-active, hot-cold archive
-  * Resilience
-    * Graceful failure handling within and across failure domains
-    * Ability to reason about system state inspite of failures
-    * Ability to self-repair or recover in meaningful, but perhaps degraded modes
-* **S**erviceability
-  * Design with empathy - for user and the support/on-call person 
-    * Clear and actionable status and error messages
-    * Logs
-    * Metrics
-    * Healthchecks
-    * Alerts
-    * Documentation and runbooks
-  * Testability
-    * Unit tests
-    * Fuzz tests
-    * Property based tests
-    * Component tests
-    * Contract tests
-    * Integration tests
-    * Performance tests
-  * Disaster recovery
-    * Chaos tests
-    * Fault domain isolation
-    * Failure Mode and Effects Analysis
-    * Recovery Point Objective and Recovery Time Objective
-  * Reproducability
-   * Environment
-   * Trends and patterns (OS, network, disk)
+- Requirements
+  - Goals
+  - Non goals
+  - Scale
+  - Constraints
+  - Success measures
+- Design Principles
+  - Customer first
+    - MVP
+    - Necessary (support), sufficient (resistance), nice to have
+  - Critical thinking
+    - ROI
+    - COGS
+    - KPIs
+    - Data and experiment driven
+  - Tradeoffs
+    - Reliable, scalable, maintainable
+    - Simplicity, easy to reason and scale
+    - Mechanical sympathy
+    - Reduce toil and undifferentited heavy lifting
+- System - Loadbalancer
+  - Healthcheck
+  - Routing
+  - DNS updates
+  - TLS and Certs
+- System - API Gateway
+  - Protocols
+  - Firewall
+  - Rate limiting
+  - Bounds check
+  - Authz and authn
+  - Routing
+  - Logging
+- Concept - Resilience
+  - Retries
+  - Idempotence
+  - Jitter
+  - Bulkhead
+  - Circuit break
+  - Memoize
+  - Fault domains
+- Concept - Loadbalance
+  - Choice algorithm
+    - Least used
+    - Power of two random choices
+    - Round robin
+    - ...
+  - Partition
+  - Replicate
+  - Hash algorithms
+    - Consistent hash
+    - Modulo hash
+    - Rendezvous hash
+    - ...
+- Concept - Reads, writes and operations
+  - Arrival time, wait time, service time
+  - Read and write ratio
+  - Space and compute complexity
+  - Crosstalk
+    - Coordination
+    - Contention
+  - Consistency, availability, durability
+    - Atomic, transactional, lease, lock
+      - Cache, replication, checkpointing, write after/before logs
+      - Invalidation, consistency
+    - Eventually or strongly consistent
+    - Durable
+- Concept - Operations
+  - Factors
+    - Cost
+    - Performance
+    - Errors
+    - Capacity
+  - Measures
+    - Monitoring
+    - Alerting
+  - Toil
+    - Tests - chaos and synthetic
+    - Auto repair
+    - Auto scale up and back to zero
+    - Incident response
+- Concept - Security
+  - Encryption at rest and motion
+  - Sign and verify
+  - Regulations
+  - Principles
+    - Least privilege - ABAC, RBAC ...
+    - SSO
+    - Short lived tokens
+    - Key rotation
+    - ...
 
 # Performance and deep dives
 
