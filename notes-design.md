@@ -205,20 +205,7 @@ This is an opinionated collection of reading material that I've collected over t
       - Invalidation, consistency
     - Eventually or strongly consistent
     - Durable
-- Concept - Operations
-  - Factors
-    - Cost
-    - Performance
-    - Errors
-    - Capacity
-  - Measures
-    - Monitoring
-    - Alerting
-  - Toil
-    - Tests - chaos and synthetic
-    - Auto repair
-    - Auto scale up and back to zero
-    - Incident response
+    - Synchronous, asynchronous
 - Concept - Security
   - Encryption at rest and motion
   - Sign and verify
@@ -231,7 +218,23 @@ This is an opinionated collection of reading material that I've collected over t
     - ...
 - Concept - Offline vs online, hot path
   - Spread - CDN, Edge network
-  - Online vs offline, async - Analytics, notifications, repairs, reconciliation
+  - Online vs offline - Analytics, notifications, repairs, reconciliation
+- Concept - Operations
+  - Factors
+    - Cost
+    - Performance
+    - Errors
+    - Capacity
+  - Measures
+    - Monitoring
+    - Alerting
+    - Preparation
+      - Tests - chaos and synthetic
+      - Feature flags and rollouts
+    - Toil
+      - Auto repair
+      - Auto scale up and back to zero
+      - Incident response
 
 # Performance and deep dives
 
