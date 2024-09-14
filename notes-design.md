@@ -196,7 +196,7 @@ This is an opinionated collection of reading material that I've collected over t
   - Space and compute complexity
     - Arrival time, wait time, service time
     - Read and write ratio
-    - Compression
+    - Compression, Batching
   - Crosstalk
     - Coordination
     - Contention
