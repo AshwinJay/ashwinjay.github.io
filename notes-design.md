@@ -170,13 +170,15 @@ This is an opinionated collection of reading material that I've collected over t
   - Routing
   - Logging
 - Concept - Resilience
-  - Retries
+  - Timeout 
+  - Retry
   - Idempotence
   - Jitter
   - Bulkhead
   - Circuit break
+  - Backpressure
   - Memoize
-  - Fault domains
+  - Fault domain
 - Concept - Loadbalance
   - Choice algorithm
     - Least used
