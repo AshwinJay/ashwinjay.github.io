@@ -202,11 +202,15 @@ This is an opinionated collection of reading material that I've collected over t
     - Contention
   - Consistency, availability, durability
     - Atomic, transactional, lease, lock
-      - Cache, replication, checkpointing, write after/before logs
-      - Invalidation, consistency
     - Eventually or strongly consistent
     - Durable
     - Synchronous, asynchronous
+      - Commands (need to be idempotent)
+      - Events (already happened)
+      - Query (deterministic queries that don't have random numbers etc produce repeatable results)
+      - Checkpointing, write after/before logs, replay, idempotence
+    - Replication or sharding or both
+    - Caching, invalidation
 - Concept - Security
   - Encryption at rest and motion
   - Sign and verify
