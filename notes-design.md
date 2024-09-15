@@ -172,7 +172,6 @@ This is an opinionated collection of reading material that I've collected over t
 - Concept - Resilience
   - Timeout 
   - Retry
-  - Idempotence
   - Jitter
   - Bulkhead
   - Circuit break
@@ -205,12 +204,11 @@ This is an opinionated collection of reading material that I've collected over t
     - Eventually or strongly consistent
     - Durable
     - Synchronous, asynchronous
-      - Commands (need to be idempotent)
+      - Commands (need to be worked upon, ideally by a single worker)
       - Events (already happened)
       - Query (deterministic queries that don't have random numbers etc produce repeatable results)
-      - Checkpointing, write after/before logs, replay, idempotence
-    - Replication or sharding or both
-    - Caching, invalidation
+      - Checkpoint, write after/before logs, replay-idempotence, compensation-rollback
+    - Caching, invalidation, summary or probabilistic structures
 - Concept - Security
   - Encryption at rest and motion
   - Sign and verify
