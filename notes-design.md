@@ -209,19 +209,19 @@ This is an opinionated collection of reading material that I've collected over t
       - Query (deterministic queries that don't have random numbers etc produce repeatable results)
       - Checkpoint, write after/before logs, replay-idempotence, compensation-rollback
     - Caching, invalidation, summary or probabilistic structures
+- Concept - Offline vs online, hot path
+  - Spread - CDN, Edge network
+  - Online vs offline - Analytics, notifications, repairs, reconciliation
 - Concept - Security
   - Encryption at rest and motion
   - Sign and verify
-  - Regulations
+  - Governance, risk and compliance
   - Principles
     - Least privilege - ABAC, RBAC ...
     - SSO
     - Short lived tokens
     - Key rotation
     - ...
-- Concept - Offline vs online, hot path
-  - Spread - CDN, Edge network
-  - Online vs offline - Analytics, notifications, repairs, reconciliation
 - Concept - Operations
   - Factors
     - Cost
