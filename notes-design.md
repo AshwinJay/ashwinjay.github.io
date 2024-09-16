@@ -178,27 +178,11 @@ This is an opinionated collection of reading material that I've collected over t
   - Backpressure
   - Memoize
   - Fault domain
-- Concept - Loadbalance
-  - Choice algorithm
-    - Least used
-    - Power of two random choices
-    - Round robin
-    - ...
-  - Partition
-  - Replicate
-  - Hash algorithms
-    - Consistent hash
-    - Modulo hash
-    - Rendezvous hash
-    - ...
 - Concept - Reads, writes and operations
   - Space and compute complexity
     - Arrival time, wait time, service time
     - Read and write ratio
     - Compression, Batching
-  - Crosstalk
-    - Coordination
-    - Contention
   - Consistency, availability, durability
     - Atomic, transactional, lease, lock
     - Eventually or strongly consistent
@@ -208,10 +192,22 @@ This is an opinionated collection of reading material that I've collected over t
       - Events (already happened)
       - Query (deterministic queries that don't have random numbers etc produce repeatable results)
       - Checkpoint, write after/before logs, replay-idempotence, compensation-rollback
+  - Critical path
+    - Crosstalk, coordination, contention
+    - Partition, replication, affinity, anti-affinity
+    - Online vs offline - Analytics, notifications, repairs, reconciliation
     - Caching, invalidation, summary or probabilistic structures
-- Concept - Offline vs online, hot path
-  - Spread - CDN, Edge network
-  - Online vs offline - Analytics, notifications, repairs, reconciliation
+    - CDN, Edge network-POP, Region-Availability zone-Cell
+  - Loadbalancing algorithms
+    - Least used
+    - Power of two random choices
+    - Round robin
+    - ...
+  - Hash algorithms
+    - Consistent hash
+    - Modulo hash
+    - Rendezvous hash
+    - ...
 - Concept - Security
   - Encryption at rest and motion
   - Sign and verify
@@ -228,13 +224,15 @@ This is an opinionated collection of reading material that I've collected over t
     - Performance
     - Errors
     - Capacity
+    - Disruption and error budgets
+    - SLO
   - Measures
     - Monitoring
     - Alerting
   - Preparation
     - Runbooks and incident response
     - Tests - chaos and synthetic
-    - Feature flags and rollouts
+    - Feature flags and canary/blue green rollouts
     - Toil
       - Auto repair
       - Auto scale up and back to zero
