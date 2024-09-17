@@ -156,6 +156,8 @@ This is an opinionated collection of reading material that I've collected over t
     - Simplicity, easy to reason and scale
     - Mechanical sympathy
     - Reduce toil and undifferentited heavy lifting
+- Scope
+  - CDN / Edge network / POP, Region / availability zone / cell 
 - System - Loadbalancer
   - Healthcheck
   - Routing
@@ -179,7 +181,6 @@ This is an opinionated collection of reading material that I've collected over t
   - Memoize
   - Fault domain
 - Concept - Reads, writes and operations
-  - Scope - CDN, Edge network / POP, Region / availability zone / cell 
   - Space and compute complexity
     - Arrival time, wait time, service time
     - Read and write ratio
