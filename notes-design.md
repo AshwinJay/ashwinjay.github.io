@@ -179,11 +179,10 @@ This is an opinionated collection of reading material that I've collected over t
   - Memoize
   - Fault domain
 - Concept - Reads, writes and operations
+  - Scope - CDN, Edge network / POP, Region / availability zone / cell 
   - Space and compute complexity
     - Arrival time, wait time, service time
     - Read and write ratio
-    - Schema on read or write, Filter and aggregate on read or write, deduplication, pre-fetching, pre-aggregating
-    - Batching, compression, retention, tiering
   - Consistency, availability, durability
     - Atomic, transactional, lease, lock
     - Eventually or strongly consistent
@@ -196,15 +195,19 @@ This is an opinionated collection of reading material that I've collected over t
   - Critical path
     - Crosstalk, coordination, contention
     - Partition, replication, affinity, anti-affinity
+    - Schema on read or write, filter and aggregate on read or write
+    - Deduplication, pre-fetching, pre-aggregating
+    - Batching, compression, retention, tiering
     - Online vs offline - Analytics, notifications, repairs, reconciliation
     - Caching, invalidation, summary or probabilistic structures
-    - CDN, Edge network-POP, Region-Availability zone-Cell
-  - Loadbalancing algorithms
+    - Scoring, sorting, constraint satisfaction
+- Concept - Algorithms
+  - Loadbalancing
     - Least used
     - Power of two random choices
     - Round robin
     - ...
-  - Hash algorithms
+  - Hashing
     - Consistent hash
     - Modulo hash
     - Rendezvous hash
