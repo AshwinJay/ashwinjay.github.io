@@ -182,7 +182,7 @@ This is an opinionated collection of reading material that I've collected over t
   - Space and compute complexity
     - Arrival time, wait time, service time
     - Read and write ratio
-    - Compression, Batching
+    - Batching, compression, retention, tiering
   - Consistency, availability, durability
     - Atomic, transactional, lease, lock
     - Eventually or strongly consistent
