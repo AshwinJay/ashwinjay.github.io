@@ -182,6 +182,7 @@ This is an opinionated collection of reading material that I've collected over t
   - Space and compute complexity
     - Arrival time, wait time, service time
     - Read and write ratio
+    - Schema on read or write, Filter and aggregate on read or write, deduplication, pre-fetching, pre-aggregating
     - Batching, compression, retention, tiering
   - Consistency, availability, durability
     - Atomic, transactional, lease, lock
