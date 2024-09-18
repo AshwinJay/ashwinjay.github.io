@@ -142,6 +142,12 @@ This is an opinionated collection of reading material that I've collected over t
   - Scale
   - Constraints
   - Success measures
+- Design - Basics
+  - Customer journeys (Visit -> Search -> Add -> Sign in/up -> Checkout -> Pay -> Status)
+  - APIs - CRUD
+  - Services - Foreground and background
+  - Stores
+  - Reliable, scalable, observable, maintainable, secure
 - Design - Principles
   - Customer first
     - MVP
@@ -155,11 +161,6 @@ This is an opinionated collection of reading material that I've collected over t
     - Simple, easy to reason and scale
     - Mechanical sympathy
     - Reduce toil and undifferentited heavy lifting
-- Design - Basics
-  - APIs - CRUD
-  - Services - Foreground and background
-  - Stores
-  - Reliable, scalable, observable, maintainable, secure
 - Scope
   - CDN / Edge network / POP, Region / availability zone / cell 
 - System - Loadbalancer
