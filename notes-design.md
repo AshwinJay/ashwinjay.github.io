@@ -142,7 +142,7 @@ This is an opinionated collection of reading material that I've collected over t
   - Scale
   - Constraints
   - Success measures
-- Design Principles
+- Design - Principles
   - Customer first
     - MVP
     - Necessary (support), sufficient (resistance), nice to have
@@ -156,6 +156,10 @@ This is an opinionated collection of reading material that I've collected over t
     - Simplicity, easy to reason and scale
     - Mechanical sympathy
     - Reduce toil and undifferentited heavy lifting
+- Design - Basics
+  - APIs - CRUD
+  - Services
+  - Stores
 - Scope
   - CDN / Edge network / POP, Region / availability zone / cell 
 - System - Loadbalancer
@@ -214,12 +218,14 @@ This is an opinionated collection of reading material that I've collected over t
     - Rendezvous hash
     - ...
 - Concept - Security
+  - Authenticate and authorize
   - Encryption at rest and motion
   - Sign and verify
   - Governance, risk and compliance
+  - Audit trail
   - Principles
-    - Least privilege - ABAC, RBAC ...
-    - SSO
+    - SSO, RBAC ...
+    - Least privilege
     - Short lived tokens
     - Key rotation
     - ...
