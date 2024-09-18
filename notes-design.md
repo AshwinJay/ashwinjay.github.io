@@ -152,14 +152,14 @@ This is an opinionated collection of reading material that I've collected over t
     - KPIs
     - Data and experiment driven
   - Tradeoffs
-    - Reliable, scalable, maintainable
-    - Simplicity, easy to reason and scale
+    - Simple, easy to reason and scale
     - Mechanical sympathy
     - Reduce toil and undifferentited heavy lifting
 - Design - Basics
   - APIs - CRUD
-  - Services
+  - Services - Foreground and background
   - Stores
+  - Reliable, scalable, observable, maintainable, secure
 - Scope
   - CDN / Edge network / POP, Region / availability zone / cell 
 - System - Loadbalancer
@@ -230,21 +230,17 @@ This is an opinionated collection of reading material that I've collected over t
     - Key rotation
     - ...
 - Concept - Operations
-  - Factors
+  - Measure, monitor, alert - Detect, escalate, respond, prevent
     - Cost
     - Performance
     - Errors
     - Capacity
     - Disruption and error budgets
+    - Test - chaos and synthetic
     - SLO
-  - Measures
-    - Monitoring
-    - Alerting
-  - Preparation
-    - Runbooks and incident response
-    - Tests - chaos and synthetic
+  - Deploy safely
     - Feature flags and canary/blue green rollouts
-    - Toil
+    - Reduce toil
       - Auto repair
       - Auto scale up and back to zero
     
