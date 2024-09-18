@@ -143,7 +143,7 @@ This is an opinionated collection of reading material that I've collected over t
   - Constraints
   - Success measures
 - Design - Basics
-  - Customer journeys (Visit -> Search -> Add -> Sign in/up -> Checkout -> Pay -> Status)
+  - Customer journeys (Visit -> Search -> Add -> Sign in/up -> Checkout -> Order -> Invoice -> Payment -> Fulfillment -> Shipment -> Confirmation/Return/Cancel/Refund/Status/Notify)
   - APIs - CRUD
   - Services - Foreground and background
   - Stores
