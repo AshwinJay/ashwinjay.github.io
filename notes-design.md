@@ -95,6 +95,7 @@ This is an opinionated collection of reading material that I've collected over t
   * [12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
   * [Avoid](http://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html) [checked](http://www.artima.com/intv/handcuffs2.html) [exceptions](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
   * [A corner case cheat sheet for Java and JVM languages](https://ge0ffrey.github.io/ge0ffrey-presentations/cornerCaseCheatSheet/#/)
+  * [Principles of Fluent API Design by David Beaumont](https://www.youtube.com/watch?v=VPu-ytfYTeU)
 * Style
     - [Google style guide](https://google.github.io/styleguide/)
     - [A list of awesome style guides](https://github.com/kciter/awesome-style-guide#java)
