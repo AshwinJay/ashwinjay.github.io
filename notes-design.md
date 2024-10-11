@@ -148,7 +148,7 @@ This is an opinionated collection of reading material that I've collected over t
   - APIs - CRUD
   - Services - Foreground and background
   - Stores
-  - Reliable, scalable, observable, maintainable, secure
+  - Consistent/available, reliable, scalable, observable, maintainable, secure
 - Design - Principles
   - Customer first
     - MVP
