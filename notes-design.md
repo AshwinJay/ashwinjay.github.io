@@ -145,7 +145,7 @@ This is an opinionated collection of reading material that I've collected over t
   - Success measures
 - Design - Basics
   - Customer journeys (Visit -> Search -> Add -> Sign in/up -> Checkout -> Order -> Invoice -> Payment -> Fulfillment -> Shipment -> Confirmation/Return/Cancel/Refund/Status/Notify)
-  - APIs - CRUD
+  - APIs and Entities - CRUD
   - Services - Foreground and background
   - Stores
   - Reliable (consistent, available), scalable (latency, goodput), observable, maintainable, secure
